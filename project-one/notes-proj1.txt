@@ -1,0 +1,7 @@
+Notes from project 1
+- use assert to check!!! -> don't use conditionals!
+- revise zips
+- try, except! - to catch problems, not for conditionals
+- copy.deepcopy -! whoa.
+- isinstance()
+- .strip() 
