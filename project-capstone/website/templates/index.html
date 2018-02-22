@@ -1,0 +1,87 @@
+<!DOCTYPE HTML>
+<!--
+	Spectral by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>K-Drama Finder</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="../static/assets/css/main.css" />
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]     {{ url_for('static', filename='assets/css/main.css') }}-->
+		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+	</head>
+	<body class="landing">
+
+		<!-- Page Wrapper -->
+			<div id="page-wrapper">
+
+				<!-- Header -->
+					<header id="header" class="alt">
+						<h1><a href="{{url_for('index')}}">find me a k-drama</a></h1>
+
+					</header>
+
+				<!-- Banner -->
+					<section id="banner">
+						<div class="inner">
+							<h2>K-DRAMA FINDER</h2>
+							<p>find me a k-drama like...</p>
+
+
+							<div class="12u$">
+								<form method="post" action="reccs">
+									<div class="select-wrapper" style="margin:auto; width:80%">
+										<select name="chosen_show" id="chosen_show">
+											<option value="">- I'm watching -</option>
+											{% for i in dl_info.index %}
+												<option value="{{ i }}">{{ dl_info.showname[i].lower() }}</option>
+											{% endfor %}
+										</select>
+									</div>
+								<p> </p>
+									<ul class="actions">
+										<li><input type="submit" value="find" class="special" /></li>
+									</ul>
+								</form>
+							</div>
+
+								<!--<ul class="actions">
+									<li><a href="{{ url_for('index') }}" class="button special">find</a></li>
+								</ul> -->
+
+
+
+						</div>
+						<a href="#footer" class="more scrolly">Learn More</a>
+					</section>
+
+
+				<!-- Footer -->
+					<footer id="footer">
+						<div class="inner">
+							<h5><b>A General Assembly Data Science Immersive Capstone Project 2018</b><br>
+							<a href="https://heidicq.github.io//capstone/">Read more about this project on GitHub</a></h5>
+						</div>
+						<ul class="copyright">
+							<li>&copy; Heidi C - GA DSI-2</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+							<li>Thanks to: <a href="http://www.dramabeans.com/">Dramabeans</a> & <a href="https://mydramalist.com/">MyDramaList</a></li>
+						</ul>
+					</footer>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>

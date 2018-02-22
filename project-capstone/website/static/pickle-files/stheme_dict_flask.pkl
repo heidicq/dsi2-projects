@@ -1,0 +1,7651 @@
+(dp1
+cnumpy.core.multiarray
+scalar
+p2
+(cnumpy
+dtype
+p3
+(S'i8'
+I0
+I1
+tRp4
+(I3
+S'<'
+NNNI-1
+I-1
+I0
+tbS'\x00\x00\x00\x00\x00\x00\x00\x00'
+tRp5
+(lp6
+Vfanboys
+p7
+aVidol
+p8
+aVcrew buddy
+p9
+aVcrowd air
+p10
+aVdance crew
+p11
+aVfight dance
+p12
+aVgenre market
+p13
+aVlizzie mcguire
+p14
+asg2
+(g4
+S'\x01\x00\x00\x00\x00\x00\x00\x00'
+tRp15
+(lp16
+Vgold partner
+p17
+aVcentral factory
+p18
+aVsecretary
+p19
+aVproduct tamper
+p20
+aVbondholder
+p21
+aVnew product
+p22
+aVfish watch
+p23
+asg2
+(g4
+S'\x02\x00\x00\x00\x00\x00\x00\x00'
+tRp24
+(lp25
+Vblackbox
+p26
+aVchief ohns
+p27
+aVoriginal policy
+p28
+aVcrash flight
+p29
+aVrest team
+p30
+asg2
+(g4
+S'\x03\x00\x00\x00\x00\x00\x00\x00'
+tRp31
+(lp32
+Vdorm leader
+p33
+aVsoccer
+p34
+aVthump thump
+p35
+aVjumping
+p36
+aVnational team
+p37
+aVgo thump
+p38
+aVprincipal
+p39
+aVgymnasium
+p40
+asg2
+(g4
+S'\x04\x00\x00\x00\x00\x00\x00\x00'
+tRp41
+(lp42
+Vepisode
+p43
+aVgangster
+p44
+aVmuzzled
+p45
+aVteam
+p46
+aVfang
+p47
+aVcrime scene
+p48
+aVmurder
+p49
+aVaura
+p50
+aVvictim
+p51
+aVthats
+p52
+asg2
+(g4
+S'\x05\x00\x00\x00\x00\x00\x00\x00'
+tRp53
+(lp54
+Vcult
+p55
+aVnew land
+p56
+aVshaman
+p57
+aVprophet
+p58
+ag43
+aVgovernor
+p59
+aVufo
+p60
+aVartifact
+p61
+aVbookshop
+p62
+aVsword
+p63
+asg2
+(g4
+S'\x06\x00\x00\x00\x00\x00\x00\x00'
+tRp64
+(lp65
+Vgardener
+p66
+aVwig
+p67
+aVbald spot
+p68
+aVpresident
+p69
+aVattic house
+p70
+aVarmy friend
+p71
+aVconvenience store
+p72
+aVgas station
+p73
+aVseminar
+p74
+asg2
+(g4
+S'\x07\x00\x00\x00\x00\x00\x00\x00'
+tRp75
+(lp76
+Vnew york
+p77
+aVyork school
+p78
+aVdesigner
+p79
+aVseamstress
+p80
+aVreplica
+p81
+aVsewing
+p82
+aVthrow overboard
+p83
+aVapply school
+p84
+aVcrab fishing
+p85
+asg2
+(g4
+S'\x08\x00\x00\x00\x00\x00\x00\x00'
+tRp86
+(lp87
+Vmen black
+p88
+aVagent
+p89
+aVjinsung group
+p90
+aVdetective
+p91
+aVcontainer
+p92
+aVprison
+p93
+aVinmate
+p94
+aVwhite car
+p95
+aVmoney bag
+p96
+asg2
+(g4
+S'\t\x00\x00\x00\x00\x00\x00\x00'
+tRp97
+(lp98
+Vbrowser support
+p99
+aVfood truck
+p100
+aVkitchen manager
+p101
+aVtwelve year
+p102
+aVart room
+p103
+aVsibling
+p104
+aVchef
+p105
+aVnight die
+p106
+aVgallery
+p107
+aVloan shark
+p108
+asg2
+(g4
+S'\n\x00\x00\x00\x00\x00\x00\x00'
+tRp109
+(lp110
+Vslapper
+p111
+aVpay ring
+p112
+aVtime
+p113
+aVatleast
+p114
+aVchief
+p115
+aVlittle
+p116
+aVget house
+p117
+aVbackyard
+p118
+aVautoshop
+p119
+asg2
+(g4
+S'\x0b\x00\x00\x00\x00\x00\x00\x00'
+tRp120
+(lp121
+Vtearoom
+p122
+aVcoffee stand
+p123
+aVatelier
+p124
+aVfather pendant
+p125
+aVoutside
+p126
+aVnecklace
+p127
+aVcafe
+p128
+aVpresentation
+p129
+ag113
+asg2
+(g4
+S'\x0c\x00\x00\x00\x00\x00\x00\x00'
+tRp130
+(lp131
+Vaunt
+p132
+aVappraiser
+p133
+aVtarot card
+p134
+aVfake painting
+p135
+aVfather ceramic
+p136
+aVantique
+p137
+aVdad
+p138
+aVplan con
+p139
+asg2
+(g4
+S'\r\x00\x00\x00\x00\x00\x00\x00'
+tRp140
+(lp141
+Vmerman
+p142
+aVjade bracelet
+p143
+aVpearl
+p144
+aVpink octopus
+p145
+aVdeputy director
+p146
+aVcon artist
+p147
+asg2
+(g4
+S'\x0e\x00\x00\x00\x00\x00\x00\x00'
+tRp148
+(lp149
+Vglass mask
+p150
+ag69
+aVyacht
+p151
+aVstuntman
+p152
+ag19
+ag107
+aVtheory speculation
+p153
+ag113
+aVhousekeeper
+p154
+asg2
+(g4
+S'\x0f\x00\x00\x00\x00\x00\x00\x00'
+tRp155
+(lp156
+Vshareholder
+p157
+aVmackerel
+p158
+ag44
+aVmerger
+p159
+aVanyways
+p160
+aVbodybuilder
+p161
+ag52
+ag69
+aVfake marriage
+p162
+aVantarctica
+p163
+asg2
+(g4
+S'\x10\x00\x00\x00\x00\x00\x00\x00'
+tRp164
+(lp165
+g66
+aVhouse card
+p166
+aVsocial contribution
+p167
+aVwatch video
+p168
+aVbarn
+p169
+aVlamp
+p170
+aVperfume
+p171
+aVbattery
+p172
+ag127
+aVnew investor
+p173
+asg2
+(g4
+S'\x11\x00\x00\x00\x00\x00\x00\x00'
+tRp174
+(lp175
+Vrandom song
+p176
+aVdownload clip
+p177
+aVclip download
+p178
+aVdownload late
+p179
+aVfiancee
+p180
+aVtumor
+p181
+aVthorn
+p182
+aVarboretum
+p183
+aVunfair die
+p184
+asg2
+(g4
+S'\x12\x00\x00\x00\x00\x00\x00\x00'
+tRp185
+(lp186
+Vpretty man
+p187
+aVfondly ask
+p188
+aVcome bust
+p189
+aVpassword
+p190
+aVadaptation expectation
+p191
+aVadvertiseda nice
+p192
+aVago windblown
+p193
+aVajumma wake
+p194
+aValoof way
+p195
+asg2
+(g4
+S'\x13\x00\x00\x00\x00\x00\x00\x00'
+tRp196
+(lp197
+Vpocket watch
+p198
+aVmanuscript
+p199
+aVgold pocket
+p200
+aVserial novel
+p201
+aVcomrade
+p202
+aVanimal clinic
+p203
+aVindependence
+p204
+aVhire ghostwriter
+p205
+asg2
+(g4
+S'\x14\x00\x00\x00\x00\x00\x00\x00'
+tRp206
+(lp207
+Vcharity function
+p208
+aVthats quick
+p209
+aVlike senile
+p210
+aVsense find
+p211
+aVmakeover
+p212
+aVcheating
+p213
+aVabsorb show
+p214
+aVabsurd chaebol
+p215
+aVaccess introduce
+p216
+asg2
+(g4
+S'\x15\x00\x00\x00\x00\x00\x00\x00'
+tRp217
+(lp218
+g115
+aVpuzzle piece
+p219
+aVanniversary edition
+p220
+aVmosts
+p221
+ag113
+aVauthor
+p222
+aVmagazine
+p223
+aVtwentieth anniversary
+p224
+asg2
+(g4
+S'\x16\x00\x00\x00\x00\x00\x00\x00'
+tRp225
+(lp226
+Vscript
+p227
+aVactor
+p228
+aVaudition
+p229
+aVagency
+p230
+aVpastor
+p231
+aVfilm
+p232
+aVdrop movie
+p233
+aVvariety show
+p234
+asg2
+(g4
+S'\x17\x00\x00\x00\x00\x00\x00\x00'
+tRp235
+(lp236
+Vmin
+p237
+aVfalse labor
+p238
+aVbreast pain
+p239
+aVone mom
+p240
+aVhes
+p241
+aVsperm
+p242
+aVdressed one
+p243
+aVfood craving
+p244
+aVguys finish
+p245
+asg2
+(g4
+S'\x18\x00\x00\x00\x00\x00\x00\x00'
+tRp246
+(lp247
+Vbroadcast
+p248
+aVhed
+p249
+ag19
+aVgoon
+p250
+aVhack
+p251
+aVmayoral candidate
+p252
+aVpirate
+p253
+aVtape
+p254
+aVcyber
+p255
+asg2
+(g4
+S'\x19\x00\x00\x00\x00\x00\x00\x00'
+tRp256
+(lp257
+Vrehabilitation
+p258
+aVten ago
+p259
+aVpitcher
+p260
+aVbaseball
+p261
+aVclinic
+p262
+aVplay catch
+p263
+aVfamily checkup
+p264
+aVdoc
+p265
+aVcoach
+p266
+aVplayer
+p267
+asg2
+(g4
+S'\x1a\x00\x00\x00\x00\x00\x00\x00'
+tRp268
+(lp269
+Vbenefit concert
+p270
+aVcollaboration
+p271
+aVrooftop hideout
+p272
+aVoverseas training
+p273
+aVseventeen year
+p274
+aVthree stooge
+p275
+aVbad agency
+p276
+aVschool buddy
+p277
+asg2
+(g4
+S'\x1b\x00\x00\x00\x00\x00\x00\x00'
+tRp278
+(lp279
+Vdiploma
+p280
+aVvisa
+p281
+ag249
+ag159
+aVgosiwon
+p282
+aVorphanage
+p283
+ag52
+aVfax
+p284
+aVnun
+p285
+aVdesign
+p286
+asg2
+(g4
+S'\x1c\x00\x00\x00\x00\x00\x00\x00'
+tRp287
+(lp288
+Vdebtor pay
+p289
+aVresort violence
+p290
+aVfirst recap
+p291
+aVtheyre reach
+p292
+aVforeign investor
+p293
+aVgirl dress
+p294
+aVscene intercut
+p295
+aVab right
+p296
+aVaccompany headline
+p297
+asg2
+(g4
+S'\x1d\x00\x00\x00\x00\x00\x00\x00'
+tRp298
+(lp299
+Vking
+p300
+aVchief minister
+p301
+aVpalace
+p302
+aVcouncilman
+p303
+aVprincess
+p304
+aVcrown
+p305
+aVgeneral supporter
+p306
+aVumbrella maker
+p307
+asg2
+(g4
+S'\x1e\x00\x00\x00\x00\x00\x00\x00'
+tRp308
+(lp309
+g99
+aVcoast guard
+p310
+aVarticle
+p311
+aVglobe tattoo
+p312
+aVstowaway
+p313
+aVjournalist
+p314
+aVprosecutor office
+p315
+asg2
+(g4
+S'\x1f\x00\x00\x00\x00\x00\x00\x00'
+tRp316
+(lp317
+Vminister
+p318
+ag300
+ag63
+ag302
+aVexile
+p319
+aVmodern
+p320
+aVgisaeng
+p321
+aVhead monk
+p322
+aVlibrary
+p323
+asg2
+(g4
+S' \x00\x00\x00\x00\x00\x00\x00'
+tRp324
+(lp325
+Vdowager
+p326
+aVpawnshop
+p327
+ag302
+ag19
+aVsalamander
+p328
+aVthrone
+p329
+ag63
+aVlate king
+p330
+ag318
+asg2
+(g4
+S'!\x00\x00\x00\x00\x00\x00\x00'
+tRp331
+(lp332
+Vblueprint
+p333
+aVarchitect
+p334
+aVchainsaw
+p335
+aVdream art
+p336
+ag286
+aVproject
+p337
+aVsexual orientation
+p338
+aVfurniture
+p339
+aVapple
+p340
+asg2
+(g4
+S'"\x00\x00\x00\x00\x00\x00\x00'
+tRp341
+(lp342
+Vspecial district
+p343
+aVvaccine
+p344
+ag43
+aVbat cave
+p345
+aVserum
+p346
+aVrobber
+p347
+aVreporter
+p348
+aVwelfare facility
+p349
+aVmayor
+p350
+asg2
+(g4
+S'#\x00\x00\x00\x00\x00\x00\x00'
+tRp351
+(lp352
+Vskit
+p353
+aVsee scent
+p354
+aVcooking show
+p355
+aVblue crystal
+p356
+aVcant taste
+p357
+aVmurderer
+p358
+ag51
+ag46
+aVwine box
+p359
+asg2
+(g4
+S'$\x00\x00\x00\x00\x00\x00\x00'
+tRp360
+(lp361
+Venlistment fraud
+p362
+aVindependent counsel
+p363
+aVdriver wife
+p364
+aVfraud case
+p365
+ag115
+ag315
+aVchip
+p366
+aVson enlistment
+p367
+asg2
+(g4
+S'%\x00\x00\x00\x00\x00\x00\x00'
+tRp368
+(lp369
+Vaction school
+p370
+ag19
+aVstuntwoman
+p371
+ag229
+aVrequire clip
+p372
+aVdepartment store
+p373
+aVvideo shoot
+p374
+aVmusic video
+p375
+aVveil
+p376
+asg2
+(g4
+S'&\x00\x00\x00\x00\x00\x00\x00'
+tRp377
+(lp378
+Vseon
+p379
+aVkiss men
+p380
+aVnotice sock
+p381
+aVtip nose
+p382
+aVlittle nod
+p383
+aVthats notice
+p384
+aVaccept lady
+p385
+aVacknowledge appreciate
+p386
+aVact summer
+p387
+aVactual blind
+p388
+asg2
+(g4
+S"'\x00\x00\x00\x00\x00\x00\x00"
+tRp389
+(lp390
+Vchief justice
+p391
+aVdefendant
+p392
+aVcase file
+p393
+aVretrial
+p394
+aVbailiff
+p395
+aVcourtroom
+p396
+aVjudge bench
+p397
+aVjustice office
+p398
+aVrobe
+p399
+asg2
+(g4
+S'(\x00\x00\x00\x00\x00\x00\x00'
+tRp400
+(lp401
+Vlittle prince
+p402
+aVread diary
+p403
+aVpose nude
+p404
+aVumbrella
+p405
+aVart student
+p406
+aVgirl fell
+p407
+aVart studio
+p408
+aVbandaid
+p409
+asg2
+(g4
+S')\x00\x00\x00\x00\x00\x00\x00'
+tRp410
+(lp411
+Vnursing program
+p412
+aVstudy hall
+p413
+ag116
+aVspecial study
+p414
+aVpublic menace
+p415
+aVtennis club
+p416
+aVhell
+p417
+aVget nursing
+p418
+asg2
+(g4
+S'*\x00\x00\x00\x00\x00\x00\x00'
+tRp419
+(lp420
+g154
+aVcasino deal
+p421
+aVcompass hand
+p422
+aVpower attorney
+p423
+aVtsunami
+p424
+aVprosecutor
+p425
+aVwooden compass
+p426
+aVhenchman
+p427
+asg2
+(g4
+S'+\x00\x00\x00\x00\x00\x00\x00'
+tRp428
+(lp429
+Vtraveler
+p430
+aVsubway crash
+p431
+aVfuturistic
+p432
+aVconstruction site
+p433
+aVmemory card
+p434
+aVphoto exhibition
+p435
+aVrobot vacuum
+p436
+ag19
+asg2
+(g4
+S',\x00\x00\x00\x00\x00\x00\x00'
+tRp437
+(lp438
+Vcampus
+p439
+aVdivorce contract
+p440
+aVfreshman
+p441
+aVbucket list
+p442
+aVcollege
+p443
+ag249
+aVclass
+p444
+aVchildrens theater
+p445
+asg2
+(g4
+S'-\x00\x00\x00\x00\x00\x00\x00'
+tRp446
+(lp447
+Vvirus
+p448
+aVsniper
+p449
+aVhologram code
+p450
+aVchief police
+p451
+aVmasked man
+p452
+aVfundraiser
+p453
+aVbiochemist
+p454
+aVantibody
+p455
+asg2
+(g4
+S'.\x00\x00\x00\x00\x00\x00\x00'
+tRp456
+(lp457
+Vassemblywoman
+p458
+aVsecret garden
+p459
+aVwork script
+p460
+aVsalt flat
+p461
+aVmotorcycle
+p462
+aVaccount book
+p463
+aVtop star
+p464
+aVfilming
+p465
+aVnursing home
+p466
+asg2
+(g4
+S'/\x00\x00\x00\x00\x00\x00\x00'
+tRp467
+(lp468
+g318
+ag302
+ag304
+ag63
+aVqing
+p469
+aVcourt lady
+p470
+aVenvoy
+p471
+ag249
+aVhairpin
+p472
+ag59
+asg2
+(g4
+S'0\x00\x00\x00\x00\x00\x00\x00'
+tRp473
+(lp474
+Vmuffin
+p475
+ag425
+ag115
+aVpersonal comment
+p476
+aVcoupon
+p477
+aVterrace
+p478
+aVtomato
+p479
+aVomnipotent
+p480
+aVblossom path
+p481
+aVcase
+p482
+asg2
+(g4
+S'1\x00\x00\x00\x00\x00\x00\x00'
+tRp483
+(lp484
+Vantler fish
+p485
+aVsous
+p486
+aVfoie gras
+p487
+aVfired female
+p488
+aVkitchen staff
+p489
+aVfemale trio
+p490
+asg2
+(g4
+S'2\x00\x00\x00\x00\x00\x00\x00'
+tRp491
+(lp492
+Vtop model
+p493
+aVmale nanny
+p494
+aVmodel running
+p495
+aVturtle beat
+p496
+aVsupermodel
+p497
+aVpick clue
+p498
+aVsolve riddle
+p499
+ag77
+asg2
+(g4
+S'3\x00\x00\x00\x00\x00\x00\x00'
+tRp500
+(lp501
+Vceo
+p502
+aVbusiness group
+p503
+aVauction
+p504
+aVart dealer
+p505
+aVyen coin
+p506
+aVmiddle east
+p507
+aVpoint pity
+p508
+aVreal bullet
+p509
+aVred dress
+p510
+asg2
+(g4
+S'4\x00\x00\x00\x00\x00\x00\x00'
+tRp511
+(lp512
+Vmedal
+p513
+aVdemand video
+p514
+aVpossible endure
+p515
+aVrude man
+p516
+aVperfect age
+p517
+aVswim meet
+p518
+aVbreak love
+p519
+aVday apologize
+p520
+aVtutor academy
+p521
+asg2
+(g4
+S'5\x00\x00\x00\x00\x00\x00\x00'
+tRp522
+(lp523
+g227
+aVwriting contest
+p524
+aVdirect drama
+p525
+ag486
+aVblogger
+p526
+aVkong
+p527
+ag113
+ag417
+aVtruffle
+p528
+asg2
+(g4
+S'6\x00\x00\x00\x00\x00\x00\x00'
+tRp529
+(lp530
+Vhypothyroidism
+p531
+aVlose weight
+p532
+aVdimple
+p533
+aVsloth
+p534
+aVerotic night
+p535
+aVjiu jitsu
+p536
+aVpoinsettia
+p537
+aVworkout
+p538
+asg2
+(g4
+S'7\x00\x00\x00\x00\x00\x00\x00'
+tRp539
+(lp540
+Vsinger
+p541
+ag69
+aVmermaid
+p542
+aVtrainee
+p543
+aValbum
+p544
+aVscandal
+p545
+ag229
+aVdating contract
+p546
+aVmarathon
+p547
+asg2
+(g4
+S'8\x00\x00\x00\x00\x00\x00\x00'
+tRp548
+(lp549
+Vstepfather
+p550
+ag105
+aVknead dough
+p551
+aVceo say
+p552
+aVceo tell
+p553
+aVledger
+p554
+aVsell land
+p555
+asg2
+(g4
+S'9\x00\x00\x00\x00\x00\x00\x00'
+tRp556
+(lp557
+Veliminate
+p558
+aVcast member
+p559
+aVfinal mission
+p560
+aVddakji
+p561
+aVnametags
+p562
+aVteammate
+p563
+aVconsonant
+p564
+aVmaze
+p565
+asg2
+(g4
+S':\x00\x00\x00\x00\x00\x00\x00'
+tRp566
+(lp567
+Vmalpractice doc
+p568
+aVmisfortune come
+p569
+aVpatient truth
+p570
+aVprescribe patient
+p571
+aVmanage partner
+p572
+aValzheimers
+p573
+aVbeginning episode
+p574
+aVabuse negotiate
+p575
+asg2
+(g4
+S';\x00\x00\x00\x00\x00\x00\x00'
+tRp576
+(lp577
+Vwarden
+p578
+aVdeputy chief
+p579
+aVcellmates
+p580
+ag94
+ag394
+aVhead security
+p581
+aVdeputy general
+p582
+aVsolitary
+p583
+ag425
+asg2
+(g4
+S'<\x00\x00\x00\x00\x00\x00\x00'
+tRp584
+(lp585
+Vmissile
+p586
+aVterrorist
+p587
+ag43
+aVnuclear technology
+p588
+aVnuclear reactor
+p589
+aVhead captor
+p590
+aVgun
+p591
+asg2
+(g4
+S'=\x00\x00\x00\x00\x00\x00\x00'
+tRp592
+(lp593
+Vfortuneteller
+p594
+aVransomware
+p595
+aVprogrammer
+p596
+aVraccoon
+p597
+aVtalisman
+p598
+aVtiger man
+p599
+aVgame launch
+p600
+aVsuperstition
+p601
+aVbad luck
+p602
+asg2
+(g4
+S'>\x00\x00\x00\x00\x00\x00\x00'
+tRp603
+(lp604
+Vblack letter
+p605
+aVteacher dorm
+p606
+aVclock tower
+p607
+aVdetention cell
+p608
+ag591
+aVmonster bear
+p609
+aVsender
+p610
+aVhearing aid
+p611
+asg2
+(g4
+S'?\x00\x00\x00\x00\x00\x00\x00'
+tRp612
+(lp613
+g326
+ag318
+aVconsummation
+p614
+ag300
+aVroyal
+p615
+ag63
+aVprincess bride
+p616
+aVeight year
+p617
+aVparchment
+p618
+asg2
+(g4
+S'@\x00\x00\x00\x00\x00\x00\x00'
+tRp619
+(lp620
+g19
+aVintern
+p621
+aVdivorcee
+p622
+aVrice soup
+p623
+aVmessaging
+p624
+aVdream house
+p625
+aValimony
+p626
+aVinvestor
+p627
+aVprosthetic leg
+p628
+asg2
+(g4
+S'A\x00\x00\x00\x00\x00\x00\x00'
+tRp629
+(lp630
+g19
+aVfactory worker
+p631
+aVmaid
+p632
+ag69
+aVpriest
+p633
+aVdialysis
+p634
+aVoperating room
+p635
+aVscalpel
+p636
+aVhouse call
+p637
+asg2
+(g4
+S'B\x00\x00\x00\x00\x00\x00\x00'
+tRp638
+(lp639
+g403
+aVfluffy kitten
+p640
+aVhold cat
+p641
+aVmeet locksmith
+p642
+aVplant behind
+p643
+aVquince jelly
+p644
+aVshift next
+p645
+aVtrip family
+p646
+asg2
+(g4
+S'C\x00\x00\x00\x00\x00\x00\x00'
+tRp647
+(lp648
+Vresearch base
+p649
+aVtwo country
+p650
+aVmethane hydrate
+p651
+aVoddball trio
+p652
+aVcountry unite
+p653
+aVsouth
+p654
+aVscientist
+p655
+asg2
+(g4
+S'D\x00\x00\x00\x00\x00\x00\x00'
+tRp656
+(lp657
+Vunregistered
+p658
+aVavenger
+p659
+aVwear mask
+p660
+aVceo murder
+p661
+aVbecome police
+p662
+aVmurder case
+p663
+aVprosecution office
+p664
+aVmother abandon
+p665
+asg2
+(g4
+S'E\x00\x00\x00\x00\x00\x00\x00'
+tRp666
+(lp667
+Vuniformed woman
+p668
+aVcoed room
+p669
+aVculture night
+p670
+aVgim gim
+p671
+aVthree alarm
+p672
+aVgroup date
+p673
+aVbike nearly
+p674
+aVevent group
+p675
+asg2
+(g4
+S'F\x00\x00\x00\x00\x00\x00\x00'
+tRp676
+(lp677
+Vsol pharmacy
+p678
+ag43
+aVlaundromat
+p679
+aVcontrast nice
+p680
+aVfour brother
+p681
+aVsend foster
+p682
+aVwarm thing
+p683
+aVliving matter
+p684
+aVadmit interest
+p685
+asg2
+(g4
+S'G\x00\x00\x00\x00\x00\x00\x00'
+tRp686
+(lp687
+Vhousemate
+p688
+aVroommate
+p689
+aVghost
+p690
+aVinsurance investigator
+p691
+aVbracelet
+p692
+aVgirl
+p693
+aVmanager
+p694
+aVokay
+p695
+aVentryway
+p696
+asg2
+(g4
+S'H\x00\x00\x00\x00\x00\x00\x00'
+tRp697
+(lp698
+Vthirty year
+p699
+aVkiller
+p700
+aVfountain pen
+p701
+aVwhistle
+p702
+ag115
+aVmurder thirty
+p703
+aVstocking
+p704
+ag48
+asg2
+(g4
+S'I\x00\x00\x00\x00\x00\x00\x00'
+tRp705
+(lp706
+Valphabet
+p707
+aVscholar
+p708
+aVpromulgation
+p709
+aVcourt maiden
+p710
+aVprinting office
+p711
+aVslave
+p712
+ag470
+aVpalace guard
+p713
+asg2
+(g4
+S'J\x00\x00\x00\x00\x00\x00\x00'
+tRp714
+(lp715
+g241
+aVtvn
+p716
+aVend episode
+p717
+aVvirgin
+p718
+aVeasy easy
+p719
+aVconcierge
+p720
+aVshow wedding
+p721
+aVchoi
+p722
+aVhijinks
+p723
+asg2
+(g4
+S'K\x00\x00\x00\x00\x00\x00\x00'
+tRp724
+(lp725
+Vbomb threat
+p726
+aVmain branch
+p727
+aVmall
+p728
+aVhotel
+p729
+ag132
+ag283
+aVcontract
+p730
+ag113
+aVgrandfather
+p731
+aVtoy model
+p732
+asg2
+(g4
+S'L\x00\x00\x00\x00\x00\x00\x00'
+tRp733
+(lp734
+Vred parka
+p735
+aVask ajusshi
+p736
+aVajusshi pager
+p737
+aVfantasy version
+p738
+aVyada yada
+p739
+aVcell research
+p740
+aVteleprompter
+p741
+asg2
+(g4
+S'M\x00\x00\x00\x00\x00\x00\x00'
+tRp742
+(lp743
+g63
+ag329
+ag304
+aVregent
+p744
+ag302
+aVsacred bone
+p745
+aVroyal council
+p746
+aVarrow
+p747
+ag692
+asg2
+(g4
+S'N\x00\x00\x00\x00\x00\x00\x00'
+tRp748
+(lp749
+g544
+aVgreen umbrella
+p750
+aVkey chain
+p751
+aVexecutive director
+p752
+ag694
+aVplay drum
+p753
+aVcomposer
+p754
+aVlittle brother
+p755
+ag541
+asg2
+(g4
+S'O\x00\x00\x00\x00\x00\x00\x00'
+tRp756
+(lp757
+Vcommissioner
+p758
+ag69
+aVcon
+p759
+ag115
+ag137
+aVpay tax
+p760
+aVarrears
+p761
+aVtax bureau
+p762
+aVtax collector
+p763
+asg2
+(g4
+S'P\x00\x00\x00\x00\x00\x00\x00'
+tRp764
+(lp765
+Vhard drive
+p766
+aVone lackey
+p767
+aVanalytics
+p768
+aVvan
+p769
+aVcomrade oh
+p770
+ag89
+aVprison camp
+p771
+aVsave family
+p772
+asg2
+(g4
+S'Q\x00\x00\x00\x00\x00\x00\x00'
+tRp773
+(lp774
+g19
+aVanchorwoman
+p775
+aVcold open
+p776
+ag102
+aVnorth star
+p777
+aVpoison pen
+p778
+ag417
+ag52
+aVgala
+p779
+aVtorturer
+p780
+asg2
+(g4
+S'R\x00\x00\x00\x00\x00\x00\x00'
+tRp781
+(lp782
+g302
+aVmonarchy
+p783
+aVrestoration
+p784
+aVsachet
+p785
+aVpress conference
+p786
+aVsatchel
+p787
+ag470
+aVinheritance
+p788
+ag615
+asg2
+(g4
+S'S\x00\x00\x00\x00\x00\x00\x00'
+tRp789
+(lp790
+Vdistrict attorney
+p791
+aVprison hospital
+p792
+aVwebtoon
+p793
+aVtrailer
+p794
+aVpsychopath
+p795
+aVninth
+p796
+ag700
+aVnunchaku
+p797
+aVstabber
+p798
+aVcopycat
+p799
+asg2
+(g4
+S'T\x00\x00\x00\x00\x00\x00\x00'
+tRp800
+(lp801
+Vdead girl
+p802
+aVkiller coward
+p803
+aVblond
+p804
+aVwatch program
+p805
+aVcriminal psychology
+p806
+aVgirl stand
+p807
+aVeye girl
+p808
+aVunderneath bed
+p809
+aVviolin
+p810
+aVshot find
+p811
+asg2
+(g4
+S'U\x00\x00\x00\x00\x00\x00\x00'
+tRp812
+(lp813
+Vchief wife
+p814
+aVethical management
+p815
+aVaudit
+p816
+aVunion
+p817
+aVfinance department
+p818
+aVrestructuring
+p819
+asg2
+(g4
+S'V\x00\x00\x00\x00\x00\x00\x00'
+tRp820
+(lp821
+Vinfection
+p822
+ag455
+aVavian flu
+p823
+aVinfected
+p824
+aVmutated virus
+p825
+aVsuper vaccine
+p826
+aVmedical center
+p827
+asg2
+(g4
+S'W\x00\x00\x00\x00\x00\x00\x00'
+tRp828
+(lp829
+Vcounseling center
+p830
+aVpsychology
+p831
+aVtheatre
+p832
+aVjudo
+p833
+aVcounseling manager
+p834
+aVend psychiatric
+p835
+aVlive manager
+p836
+aVsaesang
+p837
+aVuniversitys counseling
+p838
+asg2
+(g4
+S'X\x00\x00\x00\x00\x00\x00\x00'
+tRp839
+(lp840
+Vcream truck
+p841
+aVparsley
+p842
+aVemployee room
+p843
+aVlunch sack
+p844
+aVmother properly
+p845
+aVone radish
+p846
+aVvegetable
+p847
+aVauctioneer
+p848
+aVlady cackle
+p849
+asg2
+(g4
+S'Y\x00\x00\x00\x00\x00\x00\x00'
+tRp850
+(lp851
+g19
+aVharem boy
+p852
+aVsense smell
+p853
+ag43
+aVcash insurance
+p854
+aVchase sunbae
+p855
+aVgroundskeeper alert
+p856
+aVskin product
+p857
+aVsuddenly abandon
+p858
+asg2
+(g4
+S'Z\x00\x00\x00\x00\x00\x00\x00'
+tRp859
+(lp860
+Vchief secretary
+p861
+aVchairman wife
+p862
+aVdonor match
+p863
+aVmouthwash
+p864
+aVfamily registry
+p865
+aVadd family
+p866
+asg2
+(g4
+S'[\x00\x00\x00\x00\x00\x00\x00'
+tRp867
+(lp868
+g439
+aVfirst love
+p869
+aVdorm
+p870
+aVflash forward
+p871
+aVcheerlead
+p872
+aVdivorce
+p873
+aVpeach
+p874
+aVmay queen
+p875
+aVcheapskate
+p876
+ag113
+asg2
+(g4
+S'\\\x00\x00\x00\x00\x00\x00\x00'
+tRp877
+(lp878
+Vroyal group
+p879
+ag19
+aVwhite rabbit
+p880
+aVwarranty
+p881
+ag79
+aVsoy sauce
+p882
+aVmadame
+p883
+aVtablet
+p884
+asg2
+(g4
+S']\x00\x00\x00\x00\x00\x00\x00'
+tRp885
+(lp886
+Vmist
+p887
+aVritual tool
+p888
+aVexorcism
+p889
+aVevil spirit
+p890
+ag57
+ag262
+aVfind ritual
+p891
+aVscimitar
+p892
+aVpoofs
+p893
+ag63
+asg2
+(g4
+S'^\x00\x00\x00\x00\x00\x00\x00'
+tRp894
+(lp895
+g69
+aVsong
+p896
+aVdebut
+p897
+ag442
+aVperformance
+p898
+aVguitar shop
+p899
+ag43
+ag543
+aVconcert
+p900
+aVrehearsal
+p901
+asg2
+(g4
+S'_\x00\x00\x00\x00\x00\x00\x00'
+tRp902
+(lp903
+Vduckling
+p904
+ag304
+aVlotus
+p905
+ag77
+aVreincarnation
+p906
+aVomurice
+p907
+aVcousin
+p908
+aVpostcard
+p909
+aVpersimmon
+p910
+asg2
+(g4
+S'`\x00\x00\x00\x00\x00\x00\x00'
+tRp911
+(lp912
+Vmanhwa world
+p913
+ag793
+ag884
+aVworkshop
+p914
+aVreal world
+p915
+aVback manhwa
+p916
+aVmanhwa drawing
+p917
+aVhappy end
+p918
+ag591
+asg2
+(g4
+S'a\x00\x00\x00\x00\x00\x00\x00'
+tRp919
+(lp920
+Vtape case
+p921
+aVchapter
+p922
+ag43
+aVamber
+p923
+aVvacation house
+p924
+aVfriday
+p925
+aVbreast milk
+p926
+aVseaman
+p927
+aVmiss hour
+p928
+asg2
+(g4
+S'b\x00\x00\x00\x00\x00\x00\x00'
+tRp929
+(lp930
+Vborder plan
+p931
+aVnew nation
+p932
+aVgeneral
+p933
+aVnew cave
+p934
+aVsadaebu
+p935
+aVassassin
+p936
+aVswordsman
+p937
+aVcapital
+p938
+asg2
+(g4
+S'c\x00\x00\x00\x00\x00\x00\x00'
+tRp939
+(lp940
+Vboxing gym
+p941
+aVpresident teach
+p942
+aVsteroid use
+p943
+aVbland together
+p944
+aVsport agent
+p945
+aVone athlete
+p946
+ag43
+asg2
+(g4
+S'd\x00\x00\x00\x00\x00\x00\x00'
+tRp947
+(lp948
+Vbreast cancer
+p949
+ag229
+aVweathercasters
+p950
+aVbra
+p951
+ag19
+aVrooftop house
+p952
+asg2
+(g4
+S'e\x00\x00\x00\x00\x00\x00\x00'
+tRp953
+(lp954
+Vboy mother
+p955
+aVtaxi driver
+p956
+aVelderly try
+p957
+aVmystery black
+p958
+aVfemale detective
+p959
+aVone necklace
+p960
+aVdriver argue
+p961
+aVdetective take
+p962
+aVnecklace find
+p963
+asg2
+(g4
+S'f\x00\x00\x00\x00\x00\x00\x00'
+tRp964
+(lp965
+Vshirtless scene
+p966
+aVstar star
+p967
+aVheart gold
+p968
+aVmake exception
+p969
+aVdefinitely reason
+p970
+aVbank book
+p971
+aVuse tie
+p972
+aVask enjoy
+p973
+aVdun
+p974
+asg2
+(g4
+S'g\x00\x00\x00\x00\x00\x00\x00'
+tRp975
+(lp976
+Vshing shing
+p977
+ag52
+aVneed romance
+p978
+aVromance ost
+p979
+ag113
+aVsoundfile episode
+p980
+aVcrustacean
+p981
+aVflower ring
+p982
+asg2
+(g4
+S'h\x00\x00\x00\x00\x00\x00\x00'
+tRp983
+(lp984
+Vwine cellar
+p985
+aVdreamcatcher
+p986
+aVbroadcasting club
+p987
+ag113
+aVbreak engagement
+p988
+ag154
+aVstockholder
+p989
+aVwishbone
+p990
+asg2
+(g4
+S'i\x00\x00\x00\x00\x00\x00\x00'
+tRp991
+(lp992
+Vprime minister
+p993
+aVmagazine editor
+p994
+aVwork magazine
+p995
+aVfashion magazine
+p996
+aVbemusement
+p997
+aVagree interview
+p998
+aVacting friend
+p999
+asg2
+(g4
+S'j\x00\x00\x00\x00\x00\x00\x00'
+tRp1000
+(lp1001
+g300
+ag302
+aVqueen
+p1002
+aVwizard
+p1003
+aVmajunja
+p1004
+aVsilver mine
+p1005
+ag321
+ag63
+aVapothecary
+p1006
+ag615
+asg2
+(g4
+S'k\x00\x00\x00\x00\x00\x00\x00'
+tRp1007
+(lp1008
+Vsublevel
+p1009
+ag89
+aVpolice commissioner
+p1010
+ag19
+aVbodyguard
+p1011
+aVpolitician
+p1012
+aVpresidential
+p1013
+aVsafe house
+p1014
+ag434
+asg2
+(g4
+S'l\x00\x00\x00\x00\x00\x00\x00'
+tRp1015
+(lp1016
+Vghostwriting
+p1017
+aVghostwrite
+p1018
+aVstar lover
+p1019
+ag132
+aVhairstylist
+p1020
+aVvanilla ice
+p1021
+ag545
+aVwrite book
+p1022
+aVsenior professor
+p1023
+asg2
+(g4
+S'm\x00\x00\x00\x00\x00\x00\x00'
+tRp1024
+(lp1025
+g633
+ag115
+aVconfessional
+p1026
+ag91
+aVattorney general
+p1027
+aVhousewife case
+p1028
+aVmiss housewife
+p1029
+aVjustice
+p1030
+aVhearing
+p1031
+aVchurch
+p1032
+asg2
+(g4
+S'n\x00\x00\x00\x00\x00\x00\x00'
+tRp1033
+(lp1034
+Vbakery
+p1035
+aVidol girl
+p1036
+ag543
+ag897
+aVrooftop apartment
+p1037
+aVhammock
+p1038
+aVbagful
+p1039
+aVbanker check
+p1040
+aVrooftop studio
+p1041
+asg2
+(g4
+S'o\x00\x00\x00\x00\x00\x00\x00'
+tRp1042
+(lp1043
+Vgold bar
+p1044
+aVtreasure hunt
+p1045
+aVabduct uncle
+p1046
+aVabduction upset
+p1047
+aVabsolutely ill
+p1048
+aVaccomplice hear
+p1049
+aVadmits panic
+p1050
+aVadvance obvious
+p1051
+asg2
+(g4
+S'p\x00\x00\x00\x00\x00\x00\x00'
+tRp1052
+(lp1053
+g870
+aVduet partner
+p1054
+ag8
+aVcurfew
+p1055
+aVdancer
+p1056
+ag229
+aVbecome singer
+p1057
+aVupcoming midterm
+p1058
+asg2
+(g4
+S'q\x00\x00\x00\x00\x00\x00\x00'
+tRp1059
+(lp1060
+Vwalnut shop
+p1061
+ag19
+aVkidnapper
+p1062
+aVjunkyard
+p1063
+aVdungeon doom
+p1064
+aVkiddos
+p1065
+aVredevelopment
+p1066
+aVstrength
+p1067
+asg2
+(g4
+S'r\x00\x00\x00\x00\x00\x00\x00'
+tRp1068
+(lp1069
+Vmidterm
+p1070
+aVregionals
+p1071
+ag870
+aVdemerit
+p1072
+aVdance club
+p1073
+aVresit
+p1074
+aVspec
+p1075
+aVclubroom
+p1076
+aVstaffroom
+p1077
+asg2
+(g4
+S's\x00\x00\x00\x00\x00\x00\x00'
+tRp1078
+(lp1079
+Vgovernment building
+p1080
+aVfried pork
+p1081
+aVlandlord
+p1082
+aVspicy rice
+p1083
+aVcaptain yell
+p1084
+aVfry food
+p1085
+aVrice cake
+p1086
+aVfirst season
+p1087
+aVcontinue charm
+p1088
+aVsauce
+p1089
+asg2
+(g4
+S't\x00\x00\x00\x00\x00\x00\x00'
+tRp1090
+(lp1091
+Vqueen dowager
+p1092
+aVclan
+p1093
+aVgibang
+p1094
+ag302
+aVpersecution
+p1095
+ag321
+aVmaidservant
+p1096
+aVzap
+p1097
+asg2
+(g4
+S'u\x00\x00\x00\x00\x00\x00\x00'
+tRp1098
+(lp1099
+Vclip require
+p1100
+aVlate also
+p1101
+ag897
+ag69
+ag229
+aVstudent
+p1102
+ag249
+aVsongwriting
+p1103
+aVperfect pitch
+p1104
+asg2
+(g4
+S'v\x00\x00\x00\x00\x00\x00\x00'
+tRp1105
+(lp1106
+Vdelivery guy
+p1107
+aVdelivery driver
+p1108
+aVknucklehead trio
+p1109
+ag108
+aVapp
+p1110
+aVingredient
+p1111
+asg2
+(g4
+S'w\x00\x00\x00\x00\x00\x00\x00'
+tRp1112
+(lp1113
+Vwedding
+p1114
+aVbaby
+p1115
+ag1035
+aVdementia patient
+p1116
+aVweekend trip
+p1117
+ag417
+aVofficetel
+p1118
+aValzheimers patient
+p1119
+asg2
+(g4
+S'x\x00\x00\x00\x00\x00\x00\x00'
+tRp1120
+(lp1121
+Vpink shirt
+p1122
+aVtraining center
+p1123
+ag126
+aVmanitto game
+p1124
+ag52
+ag980
+ag900
+aVbirthday
+p1125
+asg2
+(g4
+S'y\x00\x00\x00\x00\x00\x00\x00'
+tRp1126
+(lp1127
+g466
+aVcancer
+p1128
+aVdementia
+p1129
+aVmarried man
+p1130
+aVauntie
+p1131
+aVaunty uncle
+p1132
+aVguitar guy
+p1133
+aVworld tour
+p1134
+asg2
+(g4
+S'z\x00\x00\x00\x00\x00\x00\x00'
+tRp1135
+(lp1136
+Vcommander
+p1137
+aVhunter
+p1138
+aVstate minister
+p1139
+aVnyang
+p1140
+aVhorse
+p1141
+ag63
+aVyangban
+p1142
+aVslavery
+p1143
+asg2
+(g4
+S'{\x00\x00\x00\x00\x00\x00\x00'
+tRp1144
+(lp1145
+Vweekend drama
+p1146
+aVmakjang
+p1147
+aVcase drama
+p1148
+aVsoundstage
+p1149
+aVtwin sister
+p1150
+aVflurry activity
+p1151
+aVnoona
+p1152
+aVfatal flaw
+p1153
+aVhomecoming
+p1154
+asg2
+(g4
+S'|\x00\x00\x00\x00\x00\x00\x00'
+tRp1155
+(lp1156
+Vhand concept
+p1157
+aVrepresentative
+p1158
+aVnew concept
+p1159
+aVget inspiration
+p1160
+aVconcept team
+p1161
+aVsuccessful adman
+p1162
+aVunique concept
+p1163
+aVplay dream
+p1164
+asg2
+(g4
+S'}\x00\x00\x00\x00\x00\x00\x00'
+tRp1165
+(lp1166
+g43
+ag229
+aVhigh note
+p1167
+aVproduction
+p1168
+ag896
+aVunderstudy
+p1169
+aVactress
+p1170
+ag178
+ag179
+asg2
+(g4
+S'~\x00\x00\x00\x00\x00\x00\x00'
+tRp1171
+(lp1172
+Vman destiny
+p1173
+aVback firm
+p1174
+ag43
+aVabortion
+p1175
+aVspare tire
+p1176
+aVchocolate
+p1177
+ag159
+ag1130
+ag695
+asg2
+(g4
+S'\x7f\x00\x00\x00\x00\x00\x00\x00'
+tRp1178
+(lp1179
+Vdownload
+p1180
+ag176
+ag69
+aVaunt mary
+p1181
+aVhostess bar
+p1182
+aVmom
+p1183
+aVapartment
+p1184
+ag79
+asg2
+(g4
+S'\x80\x00\x00\x00\x00\x00\x00\x00'
+tRp1185
+(lp1186
+Vnegotiator
+p1187
+aVbomber
+p1188
+aVanother hostage
+p1189
+aVcrisis negotiation
+p1190
+aVdolla
+p1191
+aVfifth hostage
+p1192
+aVprotest building
+p1193
+aVgeeeenius
+p1194
+asg2
+(g4
+S'\x81\x00\x00\x00\x00\x00\x00\x00'
+tRp1195
+(lp1196
+Vhong kong
+p1197
+aVdiscover street
+p1198
+aVfaithful employee
+p1199
+aVjoin man
+p1200
+aVriot police
+p1201
+aVfall guy
+p1202
+ag425
+aVaccess lock
+p1203
+asg2
+(g4
+S'\x82\x00\x00\x00\x00\x00\x00\x00'
+tRp1204
+(lp1205
+Vred card
+p1206
+aVbutler
+p1207
+ag113
+aVdango
+p1208
+ag127
+ag126
+aVpottery class
+p1209
+aVtarty trio
+p1210
+aVpool
+p1211
+asg2
+(g4
+S'\x83\x00\x00\x00\x00\x00\x00\x00'
+tRp1212
+(lp1213
+Vsynthetic
+p1214
+aVguitar
+p1215
+ag1093
+aVtomato juice
+p1216
+aVflute
+p1217
+aVschool band
+p1218
+aVcoexistence project
+p1219
+aVlighthouse
+p1220
+asg2
+(g4
+S'\x84\x00\x00\x00\x00\x00\x00\x00'
+tRp1221
+(lp1222
+Vcraft room
+p1223
+aVmonogrammed
+p1224
+ag873
+ag779
+ag417
+aVinside
+p1225
+ag113
+aVbrooch
+p1226
+aVsecret room
+p1227
+ag900
+asg2
+(g4
+S'\x85\x00\x00\x00\x00\x00\x00\x00'
+tRp1228
+(lp1229
+Vnew housekeeper
+p1230
+aVbirthday card
+p1231
+aVwrong wrong
+p1232
+aVcomplain noona
+p1233
+aVnoona enough
+p1234
+aVajumma next
+p1235
+aVcomedic music
+p1236
+aVright fridge
+p1237
+aVcall agency
+p1238
+asg2
+(g4
+S'\x86\x00\x00\x00\x00\x00\x00\x00'
+tRp1239
+(lp1240
+Vmission
+p1241
+ag89
+ag591
+aVrecruit
+p1242
+ag249
+aVbaddie
+p1243
+aVheadquarters
+p1244
+aVslope
+p1245
+ag69
+ag655
+asg2
+(g4
+S'\x87\x00\x00\x00\x00\x00\x00\x00'
+tRp1246
+(lp1247
+Vannouncer job
+p1248
+aVfighter
+p1249
+ag417
+aVroundhouse kick
+p1250
+aVplum wine
+p1251
+aVgym
+p1252
+aVarena
+p1253
+asg2
+(g4
+S'\x88\x00\x00\x00\x00\x00\x00\x00'
+tRp1254
+(lp1255
+g1197
+aVbureau chief
+p1256
+aVhacker
+p1257
+aVrunway
+p1258
+aVrandom day
+p1259
+aVfriend killer
+p1260
+asg2
+(g4
+S'\x89\x00\x00\x00\x00\x00\x00\x00'
+tRp1261
+(lp1262
+g502
+aVnational chemical
+p1263
+ag527
+aVcosmos flower
+p1264
+aVcleaning ajumma
+p1265
+aVgiraffe
+p1266
+ag113
+aVaugust
+p1267
+ag8
+asg2
+(g4
+S'\x8a\x00\x00\x00\x00\x00\x00\x00'
+tRp1268
+(lp1269
+Vucn
+p1270
+ag1062
+aVproduction team
+p1271
+aVbroadcast team
+p1272
+ag1010
+aVseven year
+p1273
+asg2
+(g4
+S'\x8b\x00\x00\x00\x00\x00\x00\x00'
+tRp1274
+(lp1275
+Vcapsule
+p1276
+aVsticker
+p1277
+ag873
+aVpublish
+p1278
+aVclient
+p1279
+aVmarriage
+p1280
+ag116
+aVchild support
+p1281
+aVsingle father
+p1282
+aVreal age
+p1283
+asg2
+(g4
+S'\x8c\x00\x00\x00\x00\x00\x00\x00'
+tRp1284
+(lp1285
+Vdiver
+p1286
+aVdiving school
+p1287
+aVsea snail
+p1288
+ag144
+aVabalone
+p1289
+aVconch
+p1290
+aVrestaurant
+p1291
+ag52
+asg2
+(g4
+S'\x8d\x00\x00\x00\x00\x00\x00\x00'
+tRp1292
+(lp1293
+Vbillion
+p1294
+aVpainting
+p1295
+ag43
+aVpurchase
+p1296
+aVwinning
+p1297
+aVgarbage bag
+p1298
+aVhousemaid
+p1299
+aVblazer
+p1300
+ag160
+asg2
+(g4
+S'\x8e\x00\x00\x00\x00\x00\x00\x00'
+tRp1301
+(lp1302
+Vmagistrate
+p1303
+aVservant girl
+p1304
+aVdaily sitcom
+p1305
+aVeven afar
+p1306
+aVexplore confusion
+p1307
+aVpant class
+p1308
+aVpasta chef
+p1309
+aVpasta restaurant
+p1310
+aVpost cover
+p1311
+aVstill dick
+p1312
+asg2
+(g4
+S'\x8f\x00\x00\x00\x00\x00\x00\x00'
+tRp1313
+(lp1314
+g52
+aVbachelor pad
+p1315
+aVcourt
+p1316
+aVcorrespondence
+p1317
+aVrecorder
+p1318
+aVlaw exam
+p1319
+aVlaw firm
+p1320
+aVtake case
+p1321
+aVright
+p1322
+aVemail
+p1323
+asg2
+(g4
+S'\x90\x00\x00\x00\x00\x00\x00\x00'
+tRp1324
+(lp1325
+Vsave elder
+p1326
+aVslave hunter
+p1327
+aVgeomungo
+p1328
+aVemissary
+p1329
+ag1258
+aVnorigae
+p1330
+ag300
+ag302
+asg2
+(g4
+S'\x91\x00\x00\x00\x00\x00\x00\x00'
+tRp1331
+(lp1332
+Vblue light
+p1333
+aVhundred year
+p1334
+aVmonk
+p1335
+aVbecome human
+p1336
+aVninja
+p1337
+aVtake bracelet
+p1338
+aVwood
+p1339
+aVdemon
+p1340
+aVcrescent moon
+p1341
+asg2
+(g4
+S'\x92\x00\x00\x00\x00\x00\x00\x00'
+tRp1342
+(lp1343
+Vnanny
+p1344
+aVstudy camp
+p1345
+aVhead maid
+p1346
+aVfirst breastfeeding
+p1347
+aVpostgraduate
+p1348
+aVpregnant girl
+p1349
+aVbecome lawyer
+p1350
+aVknow baby
+p1351
+aVlaw school
+p1352
+asg2
+(g4
+S'\x93\x00\x00\x00\x00\x00\x00\x00'
+tRp1353
+(lp1354
+Visland
+p1355
+aVlifeboat
+p1356
+aVsurvivor
+p1357
+aVcastaway
+p1358
+aVkill ceo
+p1359
+aVtell ceo
+p1360
+ag553
+ag552
+aVceo hospital
+p1361
+asg2
+(g4
+S'\x94\x00\x00\x00\x00\x00\x00\x00'
+tRp1362
+(lp1363
+g304
+ag302
+aVcart puller
+p1364
+ag615
+ag300
+aVcarriage
+p1365
+ag471
+aVtribute
+p1366
+aVpeony
+p1367
+asg2
+(g4
+S'\x95\x00\x00\x00\x00\x00\x00\x00'
+tRp1368
+(lp1369
+Vart history
+p1370
+aVphd
+p1371
+aVnew painting
+p1372
+aVbotanist
+p1373
+aVedo period
+p1374
+aVlord lady
+p1375
+aVgreat hall
+p1376
+ag1334
+asg2
+(g4
+S'\x96\x00\x00\x00\x00\x00\x00\x00'
+tRp1377
+(lp1378
+Vbarbershop
+p1379
+aVpenthouse
+p1380
+ag129
+aVthree year
+p1381
+aVpower abuse
+p1382
+aVtheater
+p1383
+aVflower delivery
+p1384
+ag127
+aVemployee
+p1385
+aVcufflink
+p1386
+asg2
+(g4
+S'\x97\x00\x00\x00\x00\x00\x00\x00'
+tRp1387
+(lp1388
+Vreprint
+p1389
+aVadditionally
+p1390
+aVhyung
+p1391
+aVsell car
+p1392
+aVlonely lonely
+p1393
+aVred umbrella
+p1394
+aVdowncast mood
+p1395
+aVawkwardness meet
+p1396
+aVfilm help
+p1397
+aVfreeze tag
+p1398
+asg2
+(g4
+S'\x98\x00\x00\x00\x00\x00\x00\x00'
+tRp1399
+(lp1400
+Vlesion
+p1401
+aVmotorcyclist
+p1402
+aVregenerative medicine
+p1403
+ag115
+aVmortality conference
+p1404
+aVlung transplant
+p1405
+aVpower ranger
+p1406
+aVresearch
+p1407
+ag181
+asg2
+(g4
+S'\x99\x00\x00\x00\x00\x00\x00\x00'
+tRp1408
+(lp1409
+Vkiss scene
+p1410
+aVelegant
+p1411
+aVoh
+p1412
+aVslot
+p1413
+aVorange juice
+p1414
+aVchange script
+p1415
+aVplagiarism
+p1416
+aVlandowner
+p1417
+ag228
+asg2
+(g4
+S'\x9a\x00\x00\x00\x00\x00\x00\x00'
+tRp1418
+(lp1419
+Vlabor camp
+p1420
+aVinspector general
+p1421
+aVvice chairman
+p1422
+aVfactory
+p1423
+aVsink basket
+p1424
+aVcolonial government
+p1425
+aVchange name
+p1426
+asg2
+(g4
+S'\x9b\x00\x00\x00\x00\x00\x00\x00'
+tRp1427
+(lp1428
+Vcharcoal
+p1429
+ag1111
+aVtrout
+p1430
+ag1089
+aVcuisine
+p1431
+aVcrab
+p1432
+aVdish
+p1433
+aVcooking
+p1434
+aVrecipe
+p1435
+ag486
+asg2
+(g4
+S'\x9c\x00\x00\x00\x00\x00\x00\x00'
+tRp1436
+(lp1437
+g993
+ag300
+aVmaengui
+p1438
+ag302
+aVprince
+p1439
+ag471
+aVdocument
+p1440
+ag615
+asg2
+(g4
+S'\x9d\x00\x00\x00\x00\x00\x00\x00'
+tRp1441
+(lp1442
+Vsuperintendent
+p1443
+aVchief prosecutor
+p1444
+aVcon man
+p1445
+ag758
+ag91
+aVbiker
+p1446
+ag700
+asg2
+(g4
+S'\x9e\x00\x00\x00\x00\x00\x00\x00'
+tRp1447
+(lp1448
+g791
+ag425
+aVchief oh
+p1449
+ag993
+ag51
+aVchancellor
+p1450
+aVjournal
+p1451
+ag884
+asg2
+(g4
+S'\x9f\x00\x00\x00\x00\x00\x00\x00'
+tRp1452
+(lp1453
+g993
+aVsurgical
+p1454
+aVmalpractice
+p1455
+aVoperating
+p1456
+aVsurgeon
+p1457
+aVcardiologist
+p1458
+aVanesthesiologist
+p1459
+aVkidney
+p1460
+asg2
+(g4
+S'\xa0\x00\x00\x00\x00\x00\x00\x00'
+tRp1461
+(lp1462
+Vcaviar
+p1463
+ag52
+aVvolleyball uniform
+p1464
+ag249
+aValso javascript
+p1465
+aVheart boil
+p1466
+aVeat grass
+p1467
+aVhand heart
+p1468
+aVcologne
+p1469
+asg2
+(g4
+S'\xa1\x00\x00\x00\x00\x00\x00\x00'
+tRp1470
+(lp1471
+g19
+aVdeath pill
+p1472
+aVgreenhouse
+p1473
+aVinstant death
+p1474
+aVglass bell
+p1475
+aVbrain tumor
+p1476
+aVblindness
+p1477
+aVsurgery
+p1478
+aVbell bracelet
+p1479
+asg2
+(g4
+S'\xa2\x00\x00\x00\x00\x00\x00\x00'
+tRp1480
+(lp1481
+Vbear serpent
+p1482
+aVfisherman open
+p1483
+aVinternational water
+p1484
+aVserpent tattoo
+p1485
+aVone part
+p1486
+aVlifeguard
+p1487
+aVhyun
+p1488
+aVbureau director
+p1489
+asg2
+(g4
+S'\xa3\x00\x00\x00\x00\x00\x00\x00'
+tRp1490
+(lp1491
+Vpub
+p1492
+ag99
+aVtunnel
+p1493
+aVpharmacist
+p1494
+aVassailant
+p1495
+aVinner tube
+p1496
+aVdvd store
+p1497
+aVbilliards room
+p1498
+aVpharmacy
+p1499
+asg2
+(g4
+S'\xa4\x00\x00\x00\x00\x00\x00\x00'
+tRp1500
+(lp1501
+g678
+aVajummah
+p1502
+aVbehind recap
+p1503
+aVbeauty shop
+p1504
+aVlove square
+p1505
+ag882
+aVmusical
+p1506
+asg2
+(g4
+S'\xa5\x00\x00\x00\x00\x00\x00\x00'
+tRp1507
+(lp1508
+Vresignation napkin
+p1509
+aVstepdad
+p1510
+aVfollow lobby
+p1511
+ag627
+aVlawyer
+p1512
+aVyeobo
+p1513
+ag1216
+aVhousewarming
+p1514
+aVfairy godmother
+p1515
+asg2
+(g4
+S'\xa6\x00\x00\x00\x00\x00\x00\x00'
+tRp1516
+(lp1517
+g19
+aVclose caption
+p1518
+aVbatcave
+p1519
+aVgorilla
+p1520
+ag1062
+aVhypnotize
+p1521
+aVtroupe
+p1522
+aVkidnapping
+p1523
+aVheart rate
+p1524
+aVdissociative identity
+p1525
+asg2
+(g4
+S'\xa7\x00\x00\x00\x00\x00\x00\x00'
+tRp1526
+(lp1527
+g442
+aVcancer patient
+p1528
+aVfanmeeting
+p1529
+aVengagement
+p1530
+aVchemo
+p1531
+ag113
+aVtravel package
+p1532
+aVsteal ring
+p1533
+asg2
+(g4
+S'\xa8\x00\x00\x00\x00\x00\x00\x00'
+tRp1534
+(lp1535
+g370
+aVgoblin
+p1536
+aVcamcorder
+p1537
+ag542
+aVback loft
+p1538
+aVtail
+p1539
+aVbeef
+p1540
+ag229
+aVhundred day
+p1541
+asg2
+(g4
+S'\xa9\x00\x00\x00\x00\x00\x00\x00'
+tRp1542
+(lp1543
+Vfirefighter
+p1544
+aVearthquake
+p1545
+aVrubble
+p1546
+aVsave patient
+p1547
+ag318
+aVpatient life
+p1548
+ag1457
+aVgenerator
+p1549
+aVcheck patient
+p1550
+asg2
+(g4
+S'\xaa\x00\x00\x00\x00\x00\x00\x00'
+tRp1551
+(lp1552
+Vplum blossom
+p1553
+ag63
+aVshurikens
+p1554
+ag321
+aVnarrator
+p1555
+ag1138
+ag980
+asg2
+(g4
+S'\xab\x00\x00\x00\x00\x00\x00\x00'
+tRp1556
+(lp1557
+Vsubstation
+p1558
+aVcsi
+p1559
+aVsection chief
+p1560
+aVserial
+p1561
+aVold man
+p1562
+aVlunchbox store
+p1563
+aVdownstairs neighbor
+p1564
+ag502
+aVcruiser
+p1565
+asg2
+(g4
+S'\xac\x00\x00\x00\x00\x00\x00\x00'
+tRp1566
+(lp1567
+Vmalevolent
+p1568
+aVpossess
+p1569
+ag355
+aVdiary
+p1570
+ag113
+ag52
+ag1433
+aVeject
+p1571
+ag1225
+aVcabbage porridge
+p1572
+asg2
+(g4
+S'\xad\x00\x00\x00\x00\x00\x00\x00'
+tRp1573
+(lp1574
+Vkorea
+p1575
+aVminion
+p1576
+ag504
+aVancient book
+p1577
+ag202
+ag654
+aVreal book
+p1578
+ag52
+ag113
+asg2
+(g4
+S'\xae\x00\x00\x00\x00\x00\x00\x00'
+tRp1579
+(lp1580
+Vfarewell performance
+p1581
+aVcaptor
+p1582
+aVrest housemate
+p1583
+aVtermination contract
+p1584
+aVhousemate say
+p1585
+ag1225
+aVspa
+p1586
+aVaesthetician
+p1587
+aVrest girl
+p1588
+asg2
+(g4
+S'\xaf\x00\x00\x00\x00\x00\x00\x00'
+tRp1589
+(lp1590
+Vmarry princess
+p1591
+aVfamily trip
+p1592
+aVextramarital
+p1593
+aVable trip
+p1594
+ag300
+aVsandstorm
+p1595
+aVwifes family
+p1596
+aVoriental medicine
+p1597
+aVrebuke
+p1598
+asg2
+(g4
+S'\xb0\x00\x00\x00\x00\x00\x00\x00'
+tRp1599
+(lp1600
+Veight episode
+p1601
+aVshow end
+p1602
+aVactor figure
+p1603
+aVteaser shoot
+p1604
+aVpush glass
+p1605
+ag559
+aVactor give
+p1606
+aVcorny
+p1607
+aVvariety
+p1608
+asg2
+(g4
+S'\xb1\x00\x00\x00\x00\x00\x00\x00'
+tRp1609
+(lp1610
+Vmerchant
+p1611
+aVgunman
+p1612
+aVexplosive
+p1613
+ag712
+ag63
+aVking queen
+p1614
+ag470
+asg2
+(g4
+S'\xb2\x00\x00\x00\x00\x00\x00\x00'
+tRp1615
+(lp1616
+Vevil magistrate
+p1617
+aVkindly fun
+p1618
+aVleave pond
+p1619
+aVmodern time
+p1620
+aVparody
+p1621
+aVepisode series
+p1622
+aVold drama
+p1623
+aVnightclub
+p1624
+asg2
+(g4
+S'\xb3\x00\x00\x00\x00\x00\x00\x00'
+tRp1625
+(lp1626
+g326
+ag300
+aVcheongbing
+p1627
+ag302
+aVkite
+p1628
+ag304
+aVbreak curse
+p1629
+ag63
+aVtalisman shield
+p1630
+asg2
+(g4
+S'\xb4\x00\x00\x00\x00\x00\x00\x00'
+tRp1631
+(lp1632
+Vnoise marketing
+p1633
+aVstore girl
+p1634
+aVsupervisor
+p1635
+aVhotcake
+p1636
+aVdiamond bag
+p1637
+aVchairman daughter
+p1638
+aVhandbag factory
+p1639
+asg2
+(g4
+S'\xb5\x00\x00\x00\x00\x00\x00\x00'
+tRp1640
+(lp1641
+Vwinery
+p1642
+aVyeast
+p1643
+ag113
+ag985
+ag1423
+aVbuyer
+p1644
+aVawful girl
+p1645
+aVlab
+p1646
+aVtown elder
+p1647
+asg2
+(g4
+S'\xb6\x00\x00\x00\x00\x00\x00\x00'
+tRp1648
+(lp1649
+Vunni cousin
+p1650
+aVsoundfile chapter
+p1651
+aVwebtoon artist
+p1652
+aVkitten
+p1653
+aVvet
+p1654
+aVbookstore
+p1655
+aVtote
+p1656
+asg2
+(g4
+S'\xb7\x00\x00\x00\x00\x00\x00\x00'
+tRp1657
+(lp1658
+Velevator girl
+p1659
+aVpageant hopeful
+p1660
+aVlack business
+p1661
+aVoffer bodyguard
+p1662
+aVinvestment
+p1663
+aVdebt collector
+p1664
+aVnationwide
+p1665
+ag1635
+asg2
+(g4
+S'\xb8\x00\x00\x00\x00\x00\x00\x00'
+tRp1666
+(lp1667
+g241
+aVacupuncture needle
+p1668
+aVcollaboration hospital
+p1669
+aVhike bag
+p1670
+aVopening ceremony
+p1671
+aVglaring contest
+p1672
+aVtake acupuncture
+p1673
+aVneurosurgeon
+p1674
+asg2
+(g4
+S'\xb9\x00\x00\x00\x00\x00\x00\x00'
+tRp1675
+(lp1676
+Vdruggie
+p1677
+aVtwin
+p1678
+aVdrug deal
+p1679
+aVbrother
+p1680
+aVjunkie
+p1681
+aVwaiter
+p1682
+aVsmile devil
+p1683
+aVsmall stash
+p1684
+asg2
+(g4
+S'\xba\x00\x00\x00\x00\x00\x00\x00'
+tRp1685
+(lp1686
+Vsacred site
+p1687
+aVambassador
+p1688
+aVdivination
+p1689
+aVgreat seer
+p1690
+aVshackle
+p1691
+aVfind base
+p1692
+ag300
+aVbury seal
+p1693
+asg2
+(g4
+S'\xbb\x00\x00\x00\x00\x00\x00\x00'
+tRp1694
+(lp1695
+g302
+ag326
+ag304
+aVjade ring
+p1696
+aVservice bureau
+p1697
+aVflyer
+p1698
+aVbookseller
+p1699
+aVmedical service
+p1700
+aVdeposed
+p1701
+asg2
+(g4
+S'\xbc\x00\x00\x00\x00\x00\x00\x00'
+tRp1702
+(lp1703
+g1215
+aVcharity concert
+p1704
+aVvice principal
+p1705
+aVduet
+p1706
+aVclassroom
+p1707
+aVseat partner
+p1708
+aVjjak
+p1709
+aVinstrument
+p1710
+aVjoin song
+p1711
+asg2
+(g4
+S'\xbd\x00\x00\x00\x00\x00\x00\x00'
+tRp1712
+(lp1713
+Vseafood department
+p1714
+aVyoung man
+p1715
+ag1072
+aVadult hed
+p1716
+aVjaded adult
+p1717
+aVkkondae
+p1718
+aVproduce section
+p1719
+aVproduce team
+p1720
+aVservice desk
+p1721
+asg2
+(g4
+S'\xbe\x00\x00\x00\x00\x00\x00\x00'
+tRp1722
+(lp1723
+Vpublic defender
+p1724
+ag396
+aVtrial
+p1725
+aVread mind
+p1726
+aVcourthouse
+p1727
+ag700
+aVread thought
+p1728
+aVprosecution
+p1729
+aVplead guilty
+p1730
+asg2
+(g4
+S'\xbf\x00\x00\x00\x00\x00\x00\x00'
+tRp1731
+(lp1732
+Vprosecutor general
+p1733
+ag19
+ag315
+aVculprit
+p1734
+aVfootage
+p1735
+aVinvestigation
+p1736
+ag49
+aVcorruption
+p1737
+aVnational defense
+p1738
+asg2
+(g4
+S'\xc0\x00\x00\x00\x00\x00\x00\x00'
+tRp1739
+(lp1740
+g43
+ag1215
+aVdocumentary
+p1741
+aVstudio
+p1742
+ag160
+aVahjummas
+p1743
+ag898
+aVmarketplace
+p1744
+aVdivorce case
+p1745
+asg2
+(g4
+S'\xc1\x00\x00\x00\x00\x00\x00\x00'
+tRp1746
+(lp1747
+Vnew heaven
+p1748
+ag55
+aVbeliever
+p1749
+aVcongregant
+p1750
+aVboat salvation
+p1751
+ag769
+aVcampaign manager
+p1752
+aVsanitarium
+p1753
+asg2
+(g4
+S'\xc2\x00\x00\x00\x00\x00\x00\x00'
+tRp1754
+(lp1755
+Vblue diamond
+p1756
+aVgemstone dealer
+p1757
+ag702
+ag19
+aVswindler
+p1758
+aVdiamond necklace
+p1759
+aVchairman
+p1760
+ag69
+asg2
+(g4
+S'\xc3\x00\x00\x00\x00\x00\x00\x00'
+tRp1761
+(lp1762
+g300
+ag326
+aVhead eunuch
+p1763
+ag302
+ag318
+aVstate councilor
+p1764
+ag115
+ag1137
+asg2
+(g4
+S'\xc4\x00\x00\x00\x00\x00\x00\x00'
+tRp1765
+(lp1766
+g63
+aVgovernor general
+p1767
+ag321
+ag115
+aVgovernment general
+p1768
+ag113
+aVofficer
+p1769
+aVcomfort woman
+p1770
+ag1744
+asg2
+(g4
+S'\xc5\x00\x00\x00\x00\x00\x00\x00'
+tRp1771
+(lp1772
+Vcontestant
+p1773
+aVbank card
+p1774
+aVnext round
+p1775
+aVeast
+p1776
+aVthousand dollar
+p1777
+ag558
+aVvote
+p1778
+aVtreasury
+p1779
+aVsmuggle
+p1780
+asg2
+(g4
+S'\xc6\x00\x00\x00\x00\x00\x00\x00'
+tRp1781
+(lp1782
+g104
+aVpolicy
+p1783
+aVsleepwalk
+p1784
+aVinsurance queen
+p1785
+ag1279
+aVplotlines
+p1786
+aVcard debt
+p1787
+aVbar girl
+p1788
+aVformula
+p1789
+asg2
+(g4
+S'\xc7\x00\x00\x00\x00\x00\x00\x00'
+tRp1790
+(lp1791
+Vepilogue
+p1792
+aVplanet
+p1793
+aVcomet
+p1794
+aVglittery heel
+p1795
+ag43
+aVinvestigator
+p1796
+ag60
+ag694
+ag425
+asg2
+(g4
+S'\xc8\x00\x00\x00\x00\x00\x00\x00'
+tRp1797
+(lp1798
+Vhospital
+p1799
+aVneurosurgery department
+p1800
+aVfellows office
+p1801
+aVgeriatric center
+p1802
+ag1550
+asg2
+(g4
+S'\xc9\x00\x00\x00\x00\x00\x00\x00'
+tRp1803
+(lp1804
+g551
+aVguksu
+p1805
+aVhot girlfriend
+p1806
+aVpetrol
+p1807
+aVpheasant buckwheat
+p1808
+aVroyal pheasant
+p1809
+aVsight wanted
+p1810
+aVdough make
+p1811
+asg2
+(g4
+S'\xca\x00\x00\x00\x00\x00\x00\x00'
+tRp1812
+(lp1813
+Vfull moon
+p1814
+aVscroll find
+p1815
+aVcaveman corpse
+p1816
+aVgreat full
+p1817
+aVmoon day
+p1818
+aVranking minister
+p1819
+ag615
+aVbear concubine
+p1820
+aVdeal son
+p1821
+asg2
+(g4
+S'\xcb\x00\x00\x00\x00\x00\x00\x00'
+tRp1822
+(lp1823
+g159
+aVboardinghouse
+p1824
+aVboarder
+p1825
+aVsuppository
+p1826
+aVgeneral manager
+p1827
+aVbanchan
+p1828
+aVsullungtang
+p1829
+aVnext moment
+p1830
+aVtaste
+p1831
+aVcheonggukjang
+p1832
+asg2
+(g4
+S'\xcc\x00\x00\x00\x00\x00\x00\x00'
+tRp1833
+(lp1834
+Vepisode first
+p1835
+ag1180
+ag869
+aVradio show
+p1836
+aVfour episode
+p1837
+aVpay date
+p1838
+aVfail first
+p1839
+aVfirst four
+p1840
+aVespresso
+p1841
+asg2
+(g4
+S'\xcd\x00\x00\x00\x00\x00\x00\x00'
+tRp1842
+(lp1843
+Vimugi
+p1844
+ag300
+aVnight watchman
+p1845
+aVblack smoke
+p1846
+aVdragon god
+p1847
+aVscarab
+p1848
+aVserpent
+p1849
+aVgod tribe
+p1850
+asg2
+(g4
+S'\xce\x00\x00\x00\x00\x00\x00\x00'
+tRp1851
+(lp1852
+Vthirteen year
+p1853
+aVbecome reporter
+p1854
+aVplant manager
+p1855
+aVquiz show
+p1856
+aVygns
+p1857
+aVprecinct
+p1858
+aVrookie
+p1859
+asg2
+(g4
+S'\xcf\x00\x00\x00\x00\x00\x00\x00'
+tRp1860
+(lp1861
+Vbrimmers
+p1862
+aVcrackdown period
+p1863
+aVintelligence agent
+p1864
+aVkeyboard place
+p1865
+aVmark either
+p1866
+aVperiod begin
+p1867
+aVsound keyboard
+p1868
+aVtake robber
+p1869
+aVill find
+p1870
+aVman spy
+p1871
+asg2
+(g4
+S'\xd0\x00\x00\x00\x00\x00\x00\x00'
+tRp1872
+(lp1873
+g94
+aVcounty jail
+p1874
+aVcathartic yelling
+p1875
+aVwestern county
+p1876
+aVinspection
+p1877
+aVchurch service
+p1878
+aVphone card
+p1879
+aVappeal trial
+p1880
+asg2
+(g4
+S'\xd1\x00\x00\x00\x00\x00\x00\x00'
+tRp1881
+(lp1882
+Vversion need
+p1883
+aVkangaroo
+p1884
+aVseal
+p1885
+aVpink rose
+p1886
+aVfriend fianc
+p1887
+aVbouquet pink
+p1888
+aVtear necklace
+p1889
+ag116
+aVtakeover
+p1890
+asg2
+(g4
+S'\xd2\x00\x00\x00\x00\x00\x00\x00'
+tRp1891
+(lp1892
+Vbutterfly watch
+p1893
+ag758
+ag1276
+ag254
+aVmall collapse
+p1894
+aVdirty detective
+p1895
+aVspider tattoo
+p1896
+asg2
+(g4
+S'\xd3\x00\x00\x00\x00\x00\x00\x00'
+tRp1897
+(lp1898
+Vsupercomputer
+p1899
+aVblue bug
+p1900
+aVmemory footage
+p1901
+aVblock memory
+p1902
+aVtechnology
+p1903
+aVblue worm
+p1904
+ag1257
+ag19
+aVclone
+p1905
+asg2
+(g4
+S'\xd4\x00\x00\x00\x00\x00\x00\x00'
+tRp1906
+(lp1907
+Vbaduk
+p1908
+ag129
+ag337
+ag1423
+aVcontract worker
+p1909
+ag752
+aVguanxi
+p1910
+aVsubcontractor
+p1911
+asg2
+(g4
+S'\xd5\x00\x00\x00\x00\x00\x00\x00'
+tRp1912
+(lp1913
+Vrecord sound
+p1914
+ag113
+aVparent house
+p1915
+aVdump day
+p1916
+aVanother premonition
+p1917
+aVmetabolic age
+p1918
+aVtherapist
+p1919
+aVcancel wedding
+p1920
+asg2
+(g4
+S'\xd6\x00\x00\x00\x00\x00\x00\x00'
+tRp1921
+(lp1922
+g526
+aVfake engagement
+p1923
+aVpink diamond
+p1924
+aVkimchi
+p1925
+ag113
+ag528
+ag1114
+ag262
+aValone child
+p1926
+asg2
+(g4
+S'\xd7\x00\x00\x00\x00\x00\x00\x00'
+tRp1927
+(lp1928
+g302
+ag63
+aVcasino
+p1929
+aVgambler
+p1930
+ag1140
+aVchief state
+p1931
+aVblood oath
+p1932
+ag329
+ag300
+ag747
+asg2
+(g4
+S'\xd8\x00\x00\x00\x00\x00\x00\x00'
+tRp1933
+(lp1934
+Vdealer
+p1935
+aVminer
+p1936
+ag755
+aVbaccarat
+p1937
+ag44
+aVthree brother
+p1938
+aVgamble
+p1939
+aVtwo brother
+p1940
+aVannoy trio
+p1941
+asg2
+(g4
+S'\xd9\x00\x00\x00\x00\x00\x00\x00'
+tRp1942
+(lp1943
+Vjibsa
+p1944
+aVneed enable
+p1945
+aVgigolo
+p1946
+ag154
+aVkumdo
+p1947
+aVflower shop
+p1948
+aVinternet shopping
+p1949
+aVjebi
+p1950
+aVpersonal attendant
+p1951
+asg2
+(g4
+S'\xda\x00\x00\x00\x00\x00\x00\x00'
+tRp1952
+(lp1953
+g830
+ag594
+aVupstairs counseling
+p1954
+aVgymnast
+p1955
+aVdownstairs caf
+p1956
+aVpsychologist
+p1957
+aVexperiment boyfriend
+p1958
+asg2
+(g4
+S'\xdb\x00\x00\x00\x00\x00\x00\x00'
+tRp1959
+(lp1960
+Vinstrumentalist
+p1961
+ag900
+aVmusic hall
+p1962
+ag810
+ag43
+aVchoir
+p1963
+aVundersecretary
+p1964
+aVpartition
+p1965
+aVtrumpet
+p1966
+aVoboist
+p1967
+asg2
+(g4
+S'\xdc\x00\x00\x00\x00\x00\x00\x00'
+tRp1968
+(lp1969
+Vumpire
+p1970
+ag417
+aVgirlfriday yeah
+p1971
+ag113
+aVcaf
+p1972
+aVbaseball field
+p1973
+aVgirlfriday like
+p1974
+aVresidence hotel
+p1975
+asg2
+(g4
+S'\xdd\x00\x00\x00\x00\x00\x00\x00'
+tRp1976
+(lp1977
+Vstar doctor
+p1978
+aVtransplant
+p1979
+aVferry
+p1980
+aVbutcher shop
+p1981
+aVbig beef
+p1982
+aVfood sea
+p1983
+aVneighbor accompany
+p1984
+aVspirit donor
+p1985
+asg2
+(g4
+S'\xde\x00\x00\x00\x00\x00\x00\x00'
+tRp1986
+(lp1987
+Vstreet peddler
+p1988
+aVfamous pianist
+p1989
+aVsheet music
+p1990
+aVenter concours
+p1991
+aVmake concours
+p1992
+aVpole vault
+p1993
+aVhelper
+p1994
+ag1493
+asg2
+(g4
+S'\xdf\x00\x00\x00\x00\x00\x00\x00'
+tRp1995
+(lp1996
+Vhyacinth
+p1997
+aVsix year
+p1998
+aVexchange program
+p1999
+aVfishcake restaurant
+p2000
+ag1114
+ag57
+aVdead plant
+p2001
+ag311
+ag1184
+asg2
+(g4
+S'\xe0\x00\x00\x00\x00\x00\x00\x00'
+tRp2002
+(lp2003
+g708
+aVbanchon
+p2004
+ag1611
+ag747
+ag554
+aVjaehwe
+p2005
+ag1140
+ag300
+aVhomosexuality
+p2006
+aVleaflet
+p2007
+asg2
+(g4
+S'\xe1\x00\x00\x00\x00\x00\x00\x00'
+tRp2008
+(lp2009
+Vtime capsule
+p2010
+aVwalnut
+p2011
+aVcarpenter wife
+p2012
+aVmill
+p2013
+ag1494
+ag1561
+aVcorpse
+p2014
+aVshack
+p2015
+asg2
+(g4
+S'\xe2\x00\x00\x00\x00\x00\x00\x00'
+tRp2016
+(lp2017
+g63
+aVlackey
+p2018
+aVdobinori
+p2019
+aVopium
+p2020
+ag1094
+aVrickshaw
+p2021
+ag727
+aVtelephone office
+p2022
+ag1576
+aVsmuggler
+p2023
+asg2
+(g4
+S'\xe3\x00\x00\x00\x00\x00\x00\x00'
+tRp2024
+(lp2025
+g655
+ag1646
+aVoperative
+p2026
+ag591
+aVstem cell
+p2027
+ag89
+ag63
+aVphallic
+p2028
+aVvial
+p2029
+aVtechie
+p2030
+asg2
+(g4
+S'\xe4\x00\x00\x00\x00\x00\x00\x00'
+tRp2031
+(lp2032
+Vdrama fate
+p2033
+aVfilm company
+p2034
+aVfriend perfect
+p2035
+aVuhmforce
+p2036
+aVspeaking call
+p2037
+aVright shed
+p2038
+aVinterior house
+p2039
+aVyadda
+p2040
+aVfate would
+p2041
+aVexecutive
+p2042
+asg2
+(g4
+S'\xe5\x00\x00\x00\x00\x00\x00\x00'
+tRp2043
+(lp2044
+g1340
+ag690
+ag692
+aVscent blood
+p2045
+ag405
+aVcontract human
+p2046
+aVgeneral store
+p2047
+aVomen jar
+p2048
+aVphotograph burn
+p2049
+aVhong sister
+p2050
+asg2
+(g4
+S'\xe6\x00\x00\x00\x00\x00\x00\x00'
+tRp2051
+(lp2052
+Vjae hee
+p2053
+aVuniversity day
+p2054
+aVoffice politics
+p2055
+aVwant sleep
+p2056
+aVsexual tension
+p2057
+aVacademia analyze
+p2058
+aVaccurate term
+p2059
+aVact cheeky
+p2060
+asg2
+(g4
+S'\xe7\x00\x00\x00\x00\x00\x00\x00'
+tRp2061
+(lp2062
+Vpiano
+p2063
+aVpianist
+p2064
+aVmotherly love
+p2065
+aVcar splash
+p2066
+ag974
+aVinauguration
+p2067
+aVsponsorship
+p2068
+aVprodigy
+p2069
+aVsenile
+p2070
+aVrecital
+p2071
+asg2
+(g4
+S'\xe8\x00\x00\x00\x00\x00\x00\x00'
+tRp2072
+(lp2073
+Vpreemie
+p2074
+aVpediatric team
+p2075
+aVresident
+p2076
+aVpatient
+p2077
+aVstaff room
+p2078
+aVpediatrics department
+p2079
+aVbile
+p2080
+ag635
+asg2
+(g4
+S'\xe9\x00\x00\x00\x00\x00\x00\x00'
+tRp2081
+(lp2082
+g993
+aVcontract marriage
+p2083
+aVpaper frog
+p2084
+ag1945
+aVsultan
+p2085
+aVfirst wife
+p2086
+aVback estate
+p2087
+asg2
+(g4
+S'\xea\x00\x00\x00\x00\x00\x00\x00'
+tRp2088
+(lp2089
+Vdandelion
+p2090
+ag502
+aVchaebol
+p2091
+aVattendant
+p2092
+aVturbulence
+p2093
+aVdrink box
+p2094
+aVjuice carton
+p2095
+aVwoman fate
+p2096
+aVforeman
+p2097
+ag729
+asg2
+(g4
+S'\xeb\x00\x00\x00\x00\x00\x00\x00'
+tRp2098
+(lp2099
+g300
+ag993
+ag19
+ag302
+ag202
+ag1002
+ag783
+aVwar
+p2100
+asg2
+(g4
+S'\xec\x00\x00\x00\x00\x00\x00\x00'
+tRp2101
+(lp2102
+g249
+aVworkout room
+p2103
+ag873
+aVvictory slap
+p2104
+ag113
+aVhusband
+p2105
+ag126
+ag1183
+ag348
+asg2
+(g4
+S'\xed\x00\x00\x00\x00\x00\x00\x00'
+tRp2106
+(lp2107
+g262
+aVscooter
+p2108
+ag1493
+aVnarcolepsy
+p2109
+ag113
+aVnew year
+p2110
+aVhockey
+p2111
+aVpercentile
+p2112
+aVtutoring
+p2113
+ag896
+asg2
+(g4
+S'\xee\x00\x00\x00\x00\x00\x00\x00'
+tRp2114
+(lp2115
+g372
+aVfanfic
+p2116
+ag113
+aVaccent
+p2117
+aVpager
+p2118
+aVmocha
+p2119
+aVbasketball
+p2120
+aVlover concerto
+p2121
+aVnarrates
+p2122
+ag443
+asg2
+(g4
+S'\xef\x00\x00\x00\x00\x00\x00\x00'
+tRp2123
+(lp2124
+g2118
+aVmagic eye
+p2125
+ag261
+ag113
+ag1825
+aVcatcher
+p2126
+aVmed student
+p2127
+ag417
+aVwedding video
+p2128
+asg2
+(g4
+S'\xf0\x00\x00\x00\x00\x00\x00\x00'
+tRp2129
+(lp2130
+Vcreepy man
+p2131
+aVserial killer
+p2132
+aVback precinct
+p2133
+aVbank heist
+p2134
+aVcop procedurals
+p2135
+aVstraight guy
+p2136
+asg2
+(g4
+S'\xf1\x00\x00\x00\x00\x00\x00\x00'
+tRp2137
+(lp2138
+g358
+ag48
+ag700
+aVpurple flower
+p2139
+aVindebted
+p2140
+aVcritical period
+p2141
+aVmurder suspect
+p2142
+asg2
+(g4
+S'\xf2\x00\x00\x00\x00\x00\x00\x00'
+tRp2143
+(lp2144
+g63
+aVchicken shop
+p2145
+ag300
+ag690
+ag1696
+ag1002
+aVmaple leaf
+p2146
+aVreturn nothingness
+p2147
+aVsnow
+p2148
+asg2
+(g4
+S'\xf3\x00\x00\x00\x00\x00\x00\x00'
+tRp2149
+(lp2150
+g1286
+aVman black
+p2151
+aVforeigner
+p2152
+aVrealise
+p2153
+aVtax good
+p2154
+aVvillager
+p2155
+aVpotter
+p2156
+aVapologise
+p2157
+aVport
+p2158
+asg2
+(g4
+S'\xf4\x00\x00\x00\x00\x00\x00\x00'
+tRp2159
+(lp2160
+Vrep
+p2161
+aVhearing loss
+p2162
+aVdrone
+p2163
+aVstudent watch
+p2164
+aVmartial art
+p2165
+aVbell tower
+p2166
+aVget banner
+p2167
+aVknow hearing
+p2168
+aVtower armory
+p2169
+aVlight fall
+p2170
+asg2
+(g4
+S'\xf5\x00\x00\x00\x00\x00\x00\x00'
+tRp2171
+(lp2172
+g1380
+aVduel
+p2173
+aVhomeless men
+p2174
+aVfree clinic
+p2175
+aVhobo
+p2176
+aVpresident men
+p2177
+aVharvest
+p2178
+asg2
+(g4
+S'\xf6\x00\x00\x00\x00\x00\x00\x00'
+tRp2179
+(lp2180
+Vconductor
+p2181
+ag901
+aVconducting
+p2182
+ag1706
+ag2064
+aVconcertmaster
+p2183
+ag898
+aVchairwoman
+p2184
+aVsoloist
+p2185
+asg2
+(g4
+S'\xf7\x00\x00\x00\x00\x00\x00\x00'
+tRp2186
+(lp2187
+Vclover
+p2188
+aVsquid
+p2189
+aVadoptive parent
+p2190
+aVsilver medal
+p2191
+ag793
+ag502
+aVdiaper
+p2192
+aVbun
+p2193
+asg2
+(g4
+S'\xf8\x00\x00\x00\x00\x00\x00\x00'
+tRp2194
+(lp2195
+g19
+aVjackal
+p2196
+aVhematoma
+p2197
+aVcoyote
+p2198
+ag1322
+aVregain memory
+p2199
+aVbrain damage
+p2200
+aVboard member
+p2201
+aVorder kidnapping
+p2202
+aVcoffee shop
+p2203
+asg2
+(g4
+S'\xf9\x00\x00\x00\x00\x00\x00\x00'
+tRp2204
+(lp2205
+g993
+ag300
+ag1465
+ag63
+aVmusket
+p2206
+ag1688
+aVmother grandmother
+p2207
+aVhistorical document
+p2208
+asg2
+(g4
+S'\xfa\x00\x00\x00\x00\x00\x00\x00'
+tRp2209
+(lp2210
+Vsale team
+p2211
+aVmarketing team
+p2212
+aVtemp
+p2213
+ag502
+aVpermanent job
+p2214
+aVpermanent hire
+p2215
+aVonline marketing
+p2216
+asg2
+(g4
+S'\xfb\x00\x00\x00\x00\x00\x00\x00'
+tRp2217
+(lp2218
+Vmale victim
+p2219
+aVformer agent
+p2220
+aVincarcerated
+p2221
+aVdevoted mother
+p2222
+aVpiece foil
+p2223
+aVseven hint
+p2224
+aVintravenous
+p2225
+aVvictim stomach
+p2226
+aVfirst victim
+p2227
+asg2
+(g4
+S'\xfc\x00\x00\x00\x00\x00\x00\x00'
+tRp2228
+(lp2229
+Vcabbage
+p2230
+aVvillage head
+p2231
+ag2155
+aVgrasshopper
+p2232
+aVmeteor
+p2233
+aVfarm
+p2234
+aVdeer
+p2235
+aVmake album
+p2236
+aVtractor
+p2237
+asg2
+(g4
+S'\xfd\x00\x00\x00\x00\x00\x00\x00'
+tRp2238
+(lp2239
+g1335
+aVwear bulletproof
+p2240
+aVswipe gun
+p2241
+aVmuch part
+p2242
+aVholster
+p2243
+ag1295
+aVyoon
+p2244
+aVbulletproof vest
+p2245
+aVaction sequence
+p2246
+asg2
+(g4
+S'\xfe\x00\x00\x00\x00\x00\x00\x00'
+tRp2247
+(lp2248
+Vseries game
+p2249
+aVsing anthem
+p2250
+aVdodge egg
+p2251
+aVfamily dedicate
+p2252
+aVfan sing
+p2253
+aVfact suppose
+p2254
+aVthrow bat
+p2255
+aVbos seem
+p2256
+aVintercut scene
+p2257
+asg2
+(g4
+S'\xff\x00\x00\x00\x00\x00\x00\x00'
+tRp2258
+(lp2259
+Vvice president
+p2260
+aVwatch scene
+p2261
+aVpresident secretary
+p2262
+aVquestionnaire
+p2263
+aVtenant
+p2264
+aVnew assistant
+p2265
+asg2
+(g4
+S'\x00\x01\x00\x00\x00\x00\x00\x00'
+tRp2266
+(lp2267
+g241
+aVshort cut
+p2268
+aVtoll booth
+p2269
+aVring away
+p2270
+aVpolaroid
+p2271
+aVgive ring
+p2272
+aVcake make
+p2273
+aVasphalt
+p2274
+aVlive well
+p2275
+aVabouther
+p2276
+asg2
+(g4
+S'\x01\x01\x00\x00\x00\x00\x00\x00'
+tRp2277
+(lp2278
+g1110
+ag1835
+aVwatch soccer
+p2279
+aVget married
+p2280
+aVcontractual
+p2281
+ag2264
+aVbus
+p2282
+asg2
+(g4
+S'\x02\x01\x00\x00\x00\x00\x00\x00'
+tRp2283
+(lp2284
+g271
+aVshoe closet
+p2285
+aVpregnancy
+p2286
+aVmenopause
+p2287
+aVredesign
+p2288
+aVultrasound
+p2289
+aVmotherhood
+p2290
+aVpregnant woman
+p2291
+aVfetus
+p2292
+asg2
+(g4
+S'\x03\x01\x00\x00\x00\x00\x00\x00'
+tRp2293
+(lp2294
+Vanchorman
+p2295
+aVbroadcasting network
+p2296
+aVyoung self
+p2297
+ag52
+aVpresent self
+p2298
+aVjournalism
+p2299
+ag126
+aVgrandson
+p2300
+asg2
+(g4
+S'\x04\x01\x00\x00\x00\x00\x00\x00'
+tRp2301
+(lp2302
+g327
+aVbone marrow
+p2303
+ag504
+aVfugitive
+p2304
+ag1444
+aVcross another
+p2305
+ag617
+ag52
+asg2
+(g4
+S'\x05\x01\x00\x00\x00\x00\x00\x00'
+tRp2306
+(lp2307
+g115
+ag502
+ag49
+ag700
+ag425
+aVknife
+p2308
+ag1512
+aVarsonist
+p2309
+ag1725
+asg2
+(g4
+S'\x06\x01\x00\x00\x00\x00\x00\x00'
+tRp2310
+(lp2311
+Vhye
+p2312
+ag43
+aVpastry
+p2313
+aVjook
+p2314
+aVcrpe
+p2315
+aVmom ask
+p2316
+aVsurgical oncologist
+p2317
+aVmom mom
+p2318
+asg2
+(g4
+S'\x07\x01\x00\x00\x00\x00\x00\x00'
+tRp2319
+(lp2320
+Vlacking person
+p2321
+aVgain superpower
+p2322
+aVmuddy puddle
+p2323
+aVjudgment day
+p2324
+aVbulldog
+p2325
+aVturn bright
+p2326
+aVabandon group
+p2327
+aVcomputer bug
+p2328
+aVguy volunteer
+p2329
+asg2
+(g4
+S'\x08\x01\x00\x00\x00\x00\x00\x00'
+tRp2330
+(lp2331
+g502
+ag897
+aVbassist
+p2332
+aVwrite song
+p2333
+ag1215
+aVnew band
+p2334
+aVmusician
+p2335
+asg2
+(g4
+S'\t\x01\x00\x00\x00\x00\x00\x00'
+tRp2336
+(lp2337
+Vperform tracheotomy
+p2338
+aVminister daughter
+p2339
+aVdismissal notice
+p2340
+aVgirl intern
+p2341
+ag1528
+aVask whether
+p2342
+asg2
+(g4
+S'\n\x01\x00\x00\x00\x00\x00\x00'
+tRp2343
+(lp2344
+Vdeputy mayor
+p2345
+aVspecial cloak
+p2346
+aVtourism
+p2347
+aVplatform go
+p2348
+ag183
+aVnew deputy
+p2349
+aVgas bomb
+p2350
+asg2
+(g4
+S'\x0b\x01\x00\x00\x00\x00\x00\x00'
+tRp2351
+(lp2352
+Vcall center
+p2353
+ag758
+ag502
+aVkettlebell
+p2354
+ag91
+aVwelfare center
+p2355
+ag700
+ag2151
+aVorderly
+p2356
+asg2
+(g4
+S'\x0c\x01\x00\x00\x00\x00\x00\x00'
+tRp2357
+(lp2358
+Vtunamayos
+p2359
+aVflower teacher
+p2360
+aVstock forum
+p2361
+aVpost
+p2362
+aVclaw machine
+p2363
+aVcheat
+p2364
+aVdetective agency
+p2365
+aVvideographer
+p2366
+asg2
+(g4
+S'\r\x01\x00\x00\x00\x00\x00\x00'
+tRp2367
+(lp2368
+Vantique clock
+p2369
+aVcl group
+p2370
+ag241
+aVcosmos shift
+p2371
+aVnoona idol
+p2372
+aVsilver pendant
+p2373
+aVwaterproof condom
+p2374
+aVgold medal
+p2375
+asg2
+(g4
+S'\x0e\x01\x00\x00\x00\x00\x00\x00'
+tRp2376
+(lp2377
+g1725
+ag1279
+aVsettlement
+p2378
+ag115
+ag1729
+aVwin case
+p2379
+aVcongresswoman
+p2380
+ag1320
+ag396
+asg2
+(g4
+S'\x0f\x01\x00\x00\x00\x00\x00\x00'
+tRp2381
+(lp2382
+Vart lesson
+p2383
+ag2087
+aVcaregiver
+p2384
+aVcycling
+p2385
+ag2105
+aVcanopy
+p2386
+aVmeditation
+p2387
+aVreceptionist
+p2388
+ag154
+asg2
+(g4
+S'\x10\x01\x00\x00\x00\x00\x00\x00'
+tRp2389
+(lp2390
+Vagricultural venture
+p2391
+aVmayor death
+p2392
+ag1294
+aVexpropriation
+p2393
+ag989
+ag1972
+asg2
+(g4
+S'\x11\x01\x00\x00\x00\x00\x00\x00'
+tRp2394
+(lp2395
+g2132
+ag1612
+ag44
+ag1010
+aVelderly baduk
+p2396
+ag51
+aVankle monitor
+p2397
+asg2
+(g4
+S'\x12\x01\x00\x00\x00\x00\x00\x00'
+tRp2398
+(lp2399
+Vdean
+p2400
+ag1076
+ag1705
+aVflame master
+p2401
+ag392
+aVtrial club
+p2402
+aVact principal
+p2403
+ag1729
+asg2
+(g4
+S'\x13\x01\x00\x00\x00\x00\x00\x00'
+tRp2404
+(lp2405
+Vskater
+p2406
+aVland jump
+p2407
+aVbasketball hoop
+p2408
+aVdrop rink
+p2409
+aVice rink
+p2410
+aVcompulsory
+p2411
+aVlong program
+p2412
+asg2
+(g4
+S'\x14\x01\x00\x00\x00\x00\x00\x00'
+tRp2413
+(lp2414
+Vnew lawyer
+p2415
+aVunwinnable case
+p2416
+aVwin stay
+p2417
+aVjury trial
+p2418
+ag1320
+aVgirl father
+p2419
+ag425
+asg2
+(g4
+S'\x15\x01\x00\x00\x00\x00\x00\x00'
+tRp2420
+(lp2421
+g379
+aVscorpion
+p2422
+aVchaebols daughter
+p2423
+ag52
+aVelitism
+p2424
+ag1280
+aVeldest daughter
+p2425
+aVwork company
+p2426
+aVstreetlamp
+p2427
+asg2
+(g4
+S'\x16\x01\x00\x00\x00\x00\x00\x00'
+tRp2428
+(lp2429
+g1729
+ag19
+aVparole
+p2430
+ag69
+aVlate chairman
+p2431
+aVelite four
+p2432
+aVgold coin
+p2433
+ag358
+aVbug eye
+p2434
+aVembezzlement
+p2435
+asg2
+(g4
+S'\x17\x01\x00\x00\x00\x00\x00\x00'
+tRp2436
+(lp2437
+g373
+aVpilot
+p2438
+aVnew body
+p2439
+aVattic
+p2440
+aVfashion show
+p2441
+aVnew store
+p2442
+ag1277
+ag728
+aVcommit suicide
+p2443
+asg2
+(g4
+S'\x18\x01\x00\x00\x00\x00\x00\x00'
+tRp2444
+(lp2445
+Valters
+p2446
+aVcellar
+p2447
+aVfamily restaurant
+p2448
+aVafraid basement
+p2449
+aVpersonality
+p2450
+ag113
+aVsnowflake train
+p2451
+aValter ego
+p2452
+asg2
+(g4
+S'\x19\x01\x00\x00\x00\x00\x00\x00'
+tRp2453
+(lp2454
+Vsoldier
+p2455
+ag1137
+aVback base
+p2456
+ag1545
+aVdog tag
+p2457
+ag448
+aVabu dhabi
+p2458
+aVpower plant
+p2459
+asg2
+(g4
+S'\x1a\x01\x00\x00\x00\x00\x00\x00'
+tRp2460
+(lp2461
+Vyellow line
+p2462
+ag43
+aVplan bible
+p2463
+aVturn volume
+p2464
+aVrectal examination
+p2465
+aVexample also
+p2466
+ag2039
+aVvideo store
+p2467
+asg2
+(g4
+S'\x1b\x01\x00\x00\x00\x00\x00\x00'
+tRp2468
+(lp2469
+g1215
+ag39
+aVrooftop room
+p2470
+aVpool hall
+p2471
+aVfestival
+p2472
+ag896
+ag870
+aVsolo
+p2473
+ag1706
+ag52
+asg2
+(g4
+S'\x1c\x01\x00\x00\x00\x00\x00\x00'
+tRp2474
+(lp2475
+Vmath competition
+p2476
+ag1072
+ag793
+aVstudent evaluation
+p2477
+aVteacher office
+p2478
+aVhideout
+p2479
+ag39
+ag1707
+asg2
+(g4
+S'\x1d\x01\x00\x00\x00\x00\x00\x00'
+tRp2480
+(lp2481
+Vessay
+p2482
+ag1102
+aVhomeroom
+p2483
+aVteacher
+p2484
+ag413
+aVdebate competition
+p2485
+aVexpel
+p2486
+aVtardy
+p2487
+aVacademy
+p2488
+aVanswer sheet
+p2489
+asg2
+(g4
+S'\x1e\x01\x00\x00\x00\x00\x00\x00'
+tRp2490
+(lp2491
+g1506
+ag901
+ag627
+aVorigami
+p2492
+ag116
+aVchoco ab
+p2493
+ag1168
+aVserious actor
+p2494
+asg2
+(g4
+S'\x1f\x01\x00\x00\x00\x00\x00\x00'
+tRp2495
+(lp2496
+g1273
+aVwedding department
+p2497
+aVice pick
+p2498
+aValibi
+p2499
+aVbride
+p2500
+aVwedding guest
+p2501
+aVwallet find
+p2502
+ag700
+aVice sculpture
+p2503
+asg2
+(g4
+S' \x01\x00\x00\x00\x00\x00\x00'
+tRp2504
+(lp2505
+g793
+aVanimation project
+p2506
+aVeditor
+p2507
+ag52
+aVkeywords
+p2508
+ag1184
+aVwork progress
+p2509
+aVmilk carton
+p2510
+aVbinoculars
+p2511
+asg2
+(g4
+S'!\x01\x00\x00\x00\x00\x00\x00'
+tRp2512
+(lp2513
+Vssi
+p2514
+aVten day
+p2515
+ag889
+ag1184
+aVprogram
+p2516
+aVwoman still
+p2517
+aVkdramas
+p2518
+aVgray hair
+p2519
+ag146
+aVfacial paralysis
+p2520
+asg2
+(g4
+S'"\x01\x00\x00\x00\x00\x00\x00'
+tRp2521
+(lp2522
+g1259
+aVcooking battle
+p2523
+ag2448
+aVpresident tell
+p2524
+ag77
+aVmajeo
+p2525
+aVrestaurant jjajangmyun
+p2526
+asg2
+(g4
+S'#\x01\x00\x00\x00\x00\x00\x00'
+tRp2527
+(lp2528
+Vangel
+p2529
+aVblack notebook
+p2530
+aVbig book
+p2531
+aVgold key
+p2532
+aVkey necklace
+p2533
+aVman soul
+p2534
+aVscream feel
+p2535
+aVtoward ground
+p2536
+aVcover umbrella
+p2537
+aVconfusion wonder
+p2538
+asg2
+(g4
+S'$\x01\x00\x00\x00\x00\x00\x00'
+tRp2539
+(lp2540
+g69
+ag19
+ag46
+ag1443
+ag2132
+aVkill father
+p2541
+aVgold
+p2542
+ag417
+asg2
+(g4
+S'%\x01\x00\x00\x00\x00\x00\x00'
+tRp2543
+(lp2544
+g69
+aVhockey game
+p2545
+aVhockey training
+p2546
+aVmoss plant
+p2547
+aVpuck
+p2548
+aVplay hockey
+p2549
+aVbungee jump
+p2550
+asg2
+(g4
+S'&\x01\x00\x00\x00\x00\x00\x00'
+tRp2551
+(lp2552
+Vgirlfriend family
+p2553
+aVmiddle brother
+p2554
+aVfather girlfriend
+p2555
+aVcash flow
+p2556
+aVdesigner bag
+p2557
+aVpiety
+p2558
+aVhead injury
+p2559
+aVfind suitable
+p2560
+aVwarn father
+p2561
+ag43
+asg2
+(g4
+S"'\x01\x00\x00\x00\x00\x00\x00"
+tRp2562
+(lp2563
+g43
+aVsuhbang
+p2564
+aVstrawberry
+p2565
+aVwong group
+p2566
+aVback classroom
+p2567
+ag1537
+ag2484
+aVmemory tree
+p2568
+asg2
+(g4
+S'(\x01\x00\x00\x00\x00\x00\x00'
+tRp2569
+(lp2570
+Vplay date
+p2571
+aVajumma gossip
+p2572
+aVepisode script
+p2573
+aVqueen drama
+p2574
+aVunemployed romance
+p2575
+aVproduction assistant
+p2576
+aVminiseries
+p2577
+aVnext episode
+p2578
+aVhurt arm
+p2579
+asg2
+(g4
+S')\x01\x00\x00\x00\x00\x00\x00'
+tRp2580
+(lp2581
+g1945
+ag1279
+aVsherlock
+p2582
+aVmarionette
+p2583
+aVsurveillance van
+p2584
+aVsteal recipe
+p2585
+aVtwo loan
+p2586
+ag249
+asg2
+(g4
+S'*\x01\x00\x00\x00\x00\x00\x00'
+tRp2587
+(lp2588
+Vvice premier
+p2589
+ag1611
+ag300
+aVbandit
+p2590
+ag326
+ag1439
+ag318
+ag63
+asg2
+(g4
+S'+\x01\x00\x00\x00\x00\x00\x00'
+tRp2591
+(lp2592
+g833
+ag113
+aVsoundfile track
+p2593
+ag1465
+ag594
+ag900
+ag2282
+aVupstairs neighbor
+p2594
+ag229
+aVnarrate
+p2595
+asg2
+(g4
+S',\x01\x00\x00\x00\x00\x00\x00'
+tRp2596
+(lp2597
+Vbandmates
+p2598
+ag1215
+ag730
+aVrocker
+p2599
+aVmitten
+p2600
+ag1541
+ag1280
+aVshowcase
+p2601
+aVknit
+p2602
+ag417
+asg2
+(g4
+S'-\x01\x00\x00\x00\x00\x00\x00'
+tRp2603
+(lp2604
+Vjoint class
+p2605
+aVonline class
+p2606
+aVinstructor
+p2607
+aVdrink alone
+p2608
+ag1102
+aVmock exam
+p2609
+aVgosiwon roof
+p2610
+asg2
+(g4
+S'.\x01\x00\x00\x00\x00\x00\x00'
+tRp2611
+(lp2612
+Vyakuza
+p2613
+aVprofessorship
+p2614
+aVvase
+p2615
+aVantique bowl
+p2616
+aVgracious way
+p2617
+aVpreservationist
+p2618
+aVrun maybe
+p2619
+aVcultural heritage
+p2620
+asg2
+(g4
+S'/\x01\x00\x00\x00\x00\x00\x00'
+tRp2621
+(lp2622
+Vprivate investigator
+p2623
+aVana
+p2624
+aVaspire composer
+p2625
+ag241
+aVlate girlfriend
+p2626
+aVcare dog
+p2627
+aVtalent agency
+p2628
+aVlose dog
+p2629
+aVsong hear
+p2630
+asg2
+(g4
+S'0\x01\x00\x00\x00\x00\x00\x00'
+tRp2631
+(lp2632
+g1259
+aVflower lady
+p2633
+aVfuneral business
+p2634
+ag122
+aVspirit wedding
+p2635
+aVseashell
+p2636
+ag113
+aVfuneral work
+p2637
+aVgum
+p2638
+asg2
+(g4
+S'1\x01\x00\x00\x00\x00\x00\x00'
+tRp2639
+(lp2640
+Vfurniture design
+p2641
+aVkimbap date
+p2642
+ag113
+aVjuice delivery
+p2643
+aVbilliards
+p2644
+ag914
+ag417
+ag283
+asg2
+(g4
+S'2\x01\x00\x00\x00\x00\x00\x00'
+tRp2645
+(lp2646
+Vlime
+p2647
+ag285
+aVhairclip
+p2648
+ag896
+ag1391
+ag1678
+aVlive convent
+p2649
+aVfan
+p2650
+aVpogs
+p2651
+asg2
+(g4
+S'3\x01\x00\x00\x00\x00\x00\x00'
+tRp2652
+(lp2653
+Vmandoo restaurant
+p2654
+aVpizza
+p2655
+aVmental string
+p2656
+ag113
+ag1705
+aVcherub picture
+p2657
+aVnewlywed
+p2658
+ag1799
+asg2
+(g4
+S'4\x01\x00\x00\x00\x00\x00\x00'
+tRp2659
+(lp2660
+Vwhite star
+p2661
+aVenough white
+p2662
+aVone prison
+p2663
+aVguard thats
+p2664
+aVsixteen year
+p2665
+aVprisoner
+p2666
+aVapply leave
+p2667
+aVcompletely necessary
+p2668
+asg2
+(g4
+S'5\x01\x00\x00\x00\x00\x00\x00'
+tRp2669
+(lp2670
+Vbelieve astrology
+p2671
+aVwrite column
+p2672
+aVreach counter
+p2673
+aVyas
+p2674
+aVawesome best
+p2675
+ag2507
+aVbarista
+p2676
+aVworld peace
+p2677
+asg2
+(g4
+S'6\x01\x00\x00\x00\x00\x00\x00'
+tRp2678
+(lp2679
+Vsoap factory
+p2680
+aVhead elder
+p2681
+aVprenatal class
+p2682
+ag1115
+aVdivorce agreement
+p2683
+ag1295
+aVgenetic disease
+p2684
+asg2
+(g4
+S'7\x01\x00\x00\x00\x00\x00\x00'
+tRp2685
+(lp2686
+g1303
+ag302
+ag318
+ag2590
+ag300
+ag615
+ag1611
+ag2155
+ag1094
+asg2
+(g4
+S'8\x01\x00\x00\x00\x00\x00\x00'
+tRp2687
+(lp2688
+Vathlete
+p2689
+ag2375
+ag43
+aVhead nurse
+p2690
+aVasia
+p2691
+aVjudoka
+p2692
+ag476
+aVdoping
+p2693
+aVwin gold
+p2694
+asg2
+(g4
+S'9\x01\x00\x00\x00\x00\x00\x00'
+tRp2695
+(lp2696
+Vtransmission
+p2697
+aVcold case
+p2698
+ag1858
+aVcase squad
+p2699
+aVchief ahns
+p2700
+aVgang rape
+p2701
+ag700
+asg2
+(g4
+S':\x01\x00\x00\x00\x00\x00\x00'
+tRp2702
+(lp2703
+g318
+ag2590
+ag1465
+ag1611
+ag2020
+ag1344
+aVsteal sword
+p2704
+aVthief
+p2705
+ag2155
+asg2
+(g4
+S';\x01\x00\x00\x00\x00\x00\x00'
+tRp2706
+(lp2707
+Vchildhood segment
+p2708
+aVfilm version
+p2709
+aVgamester
+p2710
+aVincoming gangster
+p2711
+aVmarble war
+p2712
+aVneighborhood nemesis
+p2713
+aVtime childhood
+p2714
+aVdelinquency
+p2715
+ag241
+asg2
+(g4
+S'<\x01\x00\x00\x00\x00\x00\x00'
+tRp2716
+(lp2717
+g229
+ag178
+ag179
+ag441
+ag870
+ag1102
+aVsing
+p2718
+aVchoreography
+p2719
+ag1450
+asg2
+(g4
+S'=\x01\x00\x00\x00\x00\x00\x00'
+tRp2720
+(lp2721
+Vplay late
+p2722
+ag2188
+aVnational treasure
+p2723
+ag69
+aVpicnic
+p2724
+aVmagnet
+p2725
+aVpotato
+p2726
+aVmetaphor
+p2727
+aVproducer
+p2728
+aVsneaker
+p2729
+asg2
+(g4
+S'>\x01\x00\x00\x00\x00\x00\x00'
+tRp2730
+(lp2731
+Vold fogey
+p2732
+ag598
+ag472
+aVservant
+p2733
+aVmass grave
+p2734
+aVbadook
+p2735
+ag57
+aVsoul
+p2736
+aVafterlife
+p2737
+asg2
+(g4
+S'?\x01\x00\x00\x00\x00\x00\x00'
+tRp2738
+(lp2739
+Vnuclear
+p2740
+aVhelicopter
+p2741
+ag115
+aVisland jail
+p2742
+aVjudo test
+p2743
+aVkorean agent
+p2744
+aVcontainer terminal
+p2745
+asg2
+(g4
+S'@\x01\x00\x00\x00\x00\x00\x00'
+tRp2746
+(lp2747
+Vhomemade gift
+p2748
+aVless jaded
+p2749
+ag2423
+ag241
+ag69
+ag924
+aVcabin
+p2750
+aVelectronics
+p2751
+aVact eating
+p2752
+aVadore rich
+p2753
+asg2
+(g4
+S'A\x01\x00\x00\x00\x00\x00\x00'
+tRp2754
+(lp2755
+g329
+aVprayer stone
+p2756
+ag304
+ag300
+ag63
+ag472
+aVpoem
+p2757
+aVrain ritual
+p2758
+asg2
+(g4
+S'B\x01\x00\x00\x00\x00\x00\x00'
+tRp2759
+(lp2760
+Vweightlifter
+p2761
+aVweightlifting
+p2762
+ag1955
+aVback dorm
+p2763
+aVbarbell
+p2764
+aVweight class
+p2765
+aVtoad
+p2766
+ag132
+asg2
+(g4
+S'C\x01\x00\x00\x00\x00\x00\x00'
+tRp2767
+(lp2768
+g300
+aVconstellation
+p2769
+aVyongahn biseo
+p2770
+ag936
+aVstarvation
+p2771
+aVastronomical chart
+p2772
+aVbiseo secret
+p2773
+aVbook physiognomy
+p2774
+asg2
+(g4
+S'D\x01\x00\x00\x00\x00\x00\x00'
+tRp2775
+(lp2776
+Vcapital punishment
+p2777
+aVoriginal timeline
+p2778
+aVjewelry evidence
+p2779
+ag1062
+ag69
+ag2015
+aVshirt girl
+p2780
+ag1523
+asg2
+(g4
+S'E\x01\x00\x00\x00\x00\x00\x00'
+tRp2781
+(lp2782
+Vmurder weapon
+p2783
+aVthumbtack
+p2784
+aVthermometer
+p2785
+ag621
+ag1465
+aVmob family
+p2786
+aVstabbing
+p2787
+ag1773
+ag283
+asg2
+(g4
+S'F\x01\x00\x00\x00\x00\x00\x00'
+tRp2788
+(lp2789
+g199
+aVschizophrenic
+p2790
+aVtruth serum
+p2791
+ag688
+aVamytal
+p2792
+ag52
+aVkill stepfather
+p2793
+ag2077
+asg2
+(g4
+S'G\x01\x00\x00\x00\x00\x00\x00'
+tRp2794
+(lp2795
+g394
+ag396
+ag19
+aVcorkscrew
+p2796
+aVfather trial
+p2797
+ag49
+ag1727
+aVelectric company
+p2798
+asg2
+(g4
+S'H\x01\x00\x00\x00\x00\x00\x00'
+tRp2799
+(lp2800
+Vpatternmaking
+p2801
+aVsample gown
+p2802
+aVsenior designer
+p2803
+aVclean crap
+p2804
+aVdesigner studio
+p2805
+aVerrand girl
+p2806
+aVsewing machine
+p2807
+aVresponsible give
+p2808
+asg2
+(g4
+S'I\x01\x00\x00\x00\x00\x00\x00'
+tRp2809
+(lp2810
+Vzshare clip
+p2811
+aVruler
+p2812
+aVroyalty
+p2813
+aVlast episode
+p2814
+aVsuccessor
+p2815
+aVcharacter scroll
+p2816
+asg2
+(g4
+S'J\x01\x00\x00\x00\x00\x00\x00'
+tRp2817
+(lp2818
+Vcleown
+p2819
+ag1183
+aVcampaign
+p2820
+aVcandidate
+p2821
+aVedit layout
+p2822
+aVwrite edit
+p2823
+aVpolitical
+p2824
+aVmunicipal
+p2825
+aVlayout design
+p2826
+aVrelocation project
+p2827
+asg2
+(g4
+S'K\x01\x00\x00\x00\x00\x00\x00'
+tRp2828
+(lp2829
+Vgolden brother
+p2830
+aVdual contract
+p2831
+ag2042
+ag2029
+aVstrategic resource
+p2832
+aVpatent
+p2833
+aVstratagem
+p2834
+ag333
+aVsteal drug
+p2835
+asg2
+(g4
+S'L\x01\x00\x00\x00\x00\x00\x00'
+tRp2836
+(lp2837
+Vassistant director
+p2838
+aVthoughtless easy
+p2839
+aVstation chief
+p2840
+aVworld live
+p2841
+ag227
+aVdrama
+p2842
+aVcameraman
+p2843
+ag228
+ag152
+asg2
+(g4
+S'M\x01\x00\x00\x00\x00\x00\x00'
+tRp2844
+(lp2845
+Vcircumcision
+p2846
+aVpollack
+p2847
+aVnarrates present
+p2848
+aVtonkatsu
+p2849
+aVunimpressed nurse
+p2850
+aVplant apple
+p2851
+aVsister name
+p2852
+aVapple tree
+p2853
+aVpresent wife
+p2854
+aVorthopedic
+p2855
+asg2
+(g4
+S'N\x01\x00\x00\x00\x00\x00\x00'
+tRp2856
+(lp2857
+g63
+ag300
+aVantidote
+p2858
+aVportal
+p2859
+ag304
+ag1570
+aVdivine healer
+p2860
+ag59
+ag417
+asg2
+(g4
+S'O\x01\x00\x00\x00\x00\x00\x00'
+tRp2861
+(lp2862
+Vhigh priest
+p2863
+aVdivine gate
+p2864
+aVhuman world
+p2865
+aVhuman realm
+p2866
+ag300
+aVland sale
+p2867
+ag99
+asg2
+(g4
+S'P\x01\x00\x00\x00\x00\x00\x00'
+tRp2868
+(lp2869
+g1062
+aVclothespin
+p2870
+ag405
+aVlove cop
+p2871
+aVripple water
+p2872
+aVstrange van
+p2873
+aVthink street
+p2874
+aVfirst snow
+p2875
+aVplayground
+p2876
+asg2
+(g4
+S'Q\x01\x00\x00\x00\x00\x00\x00'
+tRp2877
+(lp2878
+Vsageuk segment
+p2879
+ag304
+aVback sageuk
+p2880
+aVdesign golf
+p2881
+aVlabel pervert
+p2882
+aVgolf course
+p2883
+aVinvincible
+p2884
+aVdaughter king
+p2885
+asg2
+(g4
+S'R\x01\x00\x00\x00\x00\x00\x00'
+tRp2886
+(lp2887
+Vseunghyodad
+p2888
+ag372
+aVfather painting
+p2889
+aVturtle
+p2890
+ag283
+ag1390
+aVcigarette stub
+p2891
+aVgive painting
+p2892
+asg2
+(g4
+S'S\x01\x00\x00\x00\x00\x00\x00'
+tRp2893
+(lp2894
+g132
+aVepisode summary
+p2895
+aVdetail give
+p2896
+aVmagic show
+p2897
+aVluck run
+p2898
+aVanother drama
+p2899
+aVsecond episode
+p2900
+aValso thing
+p2901
+aVaccept killer
+p2902
+asg2
+(g4
+S'T\x01\x00\x00\x00\x00\x00\x00'
+tRp2903
+(lp2904
+Vzshare download
+p2905
+aVgil dong
+p2906
+ag178
+ag179
+aVbandit friend
+p2907
+aVdaughter sacrifice
+p2908
+aVepisode zshare
+p2909
+asg2
+(g4
+S'U\x01\x00\x00\x00\x00\x00\x00'
+tRp2910
+(lp2911
+Vkisaeng house
+p2912
+aVend additional
+p2913
+aVhand crush
+p2914
+aVgayageum
+p2915
+aVhead kisaeng
+p2916
+aVpainting make
+p2917
+aVmake painting
+p2918
+asg2
+(g4
+S'V\x01\x00\x00\x00\x00\x00\x00'
+tRp2919
+(lp2920
+Vtop team
+p2921
+aVmedical top
+p2922
+aVdiagnose waitress
+p2923
+aVnotice waitress
+p2924
+aValso chairman
+p2925
+ag635
+aVemergency surgery
+p2926
+aVcause patient
+p2927
+asg2
+(g4
+S'W\x01\x00\x00\x00\x00\x00\x00'
+tRp2928
+(lp2929
+g1295
+aVmining
+p2930
+aVsubmit petition
+p2931
+aVaudiobooks
+p2932
+aVwife stepdaughter
+p2933
+aVrehab center
+p2934
+aVcliff
+p2935
+asg2
+(g4
+S'X\x01\x00\x00\x00\x00\x00\x00'
+tRp2936
+(lp2937
+g1858
+aVeleven year
+p2938
+aVpendant
+p2939
+aVcombat
+p2940
+ag1100
+ag1859
+ag1101
+aVsalesman
+p2941
+aVsurround ost
+p2942
+asg2
+(g4
+S'Y\x01\x00\x00\x00\x00\x00\x00'
+tRp2943
+(lp2944
+Vgalapagos
+p2945
+aVcontract publisher
+p2946
+aVlast dart
+p2947
+aVlast radio
+p2948
+aVuse microscope
+p2949
+aVpublishing
+p2950
+aVbanquet room
+p2951
+aVrun bride
+p2952
+aVaisle like
+p2953
+asg2
+(g4
+S'Z\x01\x00\x00\x00\x00\x00\x00'
+tRp2954
+(lp2955
+Vhospital ship
+p2956
+aVfirst mate
+p2957
+aVsailor
+p2958
+ag115
+ag2077
+aVchest compression
+p2959
+aVsupport episode
+p2960
+asg2
+(g4
+S'[\x01\x00\x00\x00\x00\x00\x00'
+tRp2961
+(lp2962
+g1252
+aVepisode part
+p2963
+aVhapkido
+p2964
+aVnim
+p2965
+aVfan meeting
+p2966
+aVcat costume
+p2967
+aVkitty
+p2968
+aVbasement
+p2969
+asg2
+(g4
+S'\\\x01\x00\x00\x00\x00\x00\x00'
+tRp2970
+(lp2971
+Vprivate eye
+p2972
+aVvamp
+p2973
+ag1760
+aVdragon
+p2974
+aVillustration
+p2975
+aVeye trio
+p2976
+aVdarkroom
+p2977
+aVinhaler
+p2978
+ag2623
+aVstar candy
+p2979
+asg2
+(g4
+S']\x01\x00\x00\x00\x00\x00\x00'
+tRp2980
+(lp2981
+Vshoot documentary
+p2982
+ag442
+ag113
+ag52
+aVhalf quarter
+p2983
+ag900
+ag116
+aVitem bucket
+p2984
+aVkill girlfriend
+p2985
+asg2
+(g4
+S'^\x01\x00\x00\x00\x00\x00\x00'
+tRp2986
+(lp2987
+g1092
+ag300
+ag302
+aVberry
+p2988
+aVcapital move
+p2989
+aVnobleman
+p2990
+ag318
+asg2
+(g4
+S'_\x01\x00\x00\x00\x00\x00\x00'
+tRp2991
+(lp2992
+g1506
+aVbroadway
+p2993
+ag898
+ag1450
+ag1169
+ag43
+ag229
+ag1215
+ag160
+aVlead actress
+p2994
+asg2
+(g4
+S'`\x01\x00\x00\x00\x00\x00\x00'
+tRp2995
+(lp2996
+g300
+ag993
+aVdrink blood
+p2997
+aVhawthorn
+p2998
+ag1570
+aVblack hanbok
+p2999
+ag1094
+ag1699
+asg2
+(g4
+S'a\x01\x00\x00\x00\x00\x00\x00'
+tRp3000
+(lp3001
+g502
+ag1279
+aVleave firm
+p3002
+aVsupreme court
+p3003
+aVbusiness owner
+p3004
+ag132
+ag1725
+aVoil spill
+p3005
+asg2
+(g4
+S'b\x01\x00\x00\x00\x00\x00\x00'
+tRp3006
+(lp3007
+Vchief director
+p3008
+ag51
+aVprofilers
+p3009
+ag1734
+ag700
+aVfemale kidnapper
+p3010
+aVabducted woman
+p3011
+ag578
+asg2
+(g4
+S'c\x01\x00\x00\x00\x00\x00\x00'
+tRp3012
+(lp3013
+g1705
+aVeducation minister
+p3014
+aVconstruction
+p3015
+ag1576
+ag554
+aVbrother prison
+p3016
+asg2
+(g4
+S'd\x01\x00\x00\x00\x00\x00\x00'
+tRp3017
+(lp3018
+Vginseng
+p3019
+aVshop king
+p3020
+aVmusic box
+p3021
+aVtreasure box
+p3022
+aVorange rise
+p3023
+aVshopping king
+p3024
+ag1655
+aVdie crash
+p3025
+aVtracksuit
+p3026
+ag151
+asg2
+(g4
+S'e\x01\x00\x00\x00\x00\x00\x00'
+tRp3027
+(lp3028
+g587
+ag89
+aVsummit
+p3029
+ag69
+ag654
+aVnuclear bomb
+p3030
+ag449
+aVnuclear weapon
+p3031
+ag591
+asg2
+(g4
+S'f\x01\x00\x00\x00\x00\x00\x00'
+tRp3032
+(lp3033
+g229
+aVact lesson
+p3034
+ag113
+ag262
+ag1170
+aVproteg
+p3035
+ag375
+aVacting lesson
+p3036
+ag116
+asg2
+(g4
+S'g\x01\x00\x00\x00\x00\x00\x00'
+tRp3037
+(lp3038
+g1444
+ag2027
+aVorgan
+p3039
+ag2303
+aVdogfight
+p3040
+aVoriginal vaccine
+p3041
+asg2
+(g4
+S'h\x01\x00\x00\x00\x00\x00\x00'
+tRp3042
+(lp3043
+Vneedle case
+p3044
+aVacupuncture
+p3045
+aVneedle bag
+p3046
+ag2455
+aVminister war
+p3047
+aVpulse
+p3048
+ag1478
+ag302
+asg2
+(g4
+S'i\x01\x00\x00\x00\x00\x00\x00'
+tRp3049
+(lp3050
+Vbuy horse
+p3051
+aVhorse dealer
+p3052
+aVtimeslot
+p3053
+aVoutbid
+p3054
+aVdis
+p3055
+aVactually investor
+p3056
+aVadmiringly make
+p3057
+aVaffection hence
+p3058
+aVaffectionate amusement
+p3059
+asg2
+(g4
+S'j\x01\x00\x00\x00\x00\x00\x00'
+tRp3060
+(lp3061
+g937
+ag300
+aVqueen father
+p3062
+aVmath
+p3063
+aVdip toe
+p3064
+aVadvisor
+p3065
+aVwater clock
+p3066
+aVtangerine
+p3067
+aVschool senior
+p3068
+aVrain say
+p3069
+asg2
+(g4
+S'k\x01\x00\x00\x00\x00\x00\x00'
+tRp3070
+(lp3071
+g3008
+ag452
+aVanthrax bacteria
+p3072
+aVpharmaceutical company
+p3073
+ag1646
+aVaccess profile
+p3074
+asg2
+(g4
+S'l\x01\x00\x00\x00\x00\x00\x00'
+tRp3075
+(lp3076
+Vrec room
+p3077
+aVmother urn
+p3078
+aVthree cousin
+p3079
+ag126
+aVfiance
+p3080
+ag417
+ag157
+aVdonor
+p3081
+asg2
+(g4
+S'm\x01\x00\x00\x00\x00\x00\x00'
+tRp3082
+(lp3083
+Vsecret service
+p3084
+ag89
+aVmarch hour
+p3085
+ag19
+ag1013
+ag993
+aVcolonel
+p3086
+aVassassination attempt
+p3087
+asg2
+(g4
+S'n\x01\x00\x00\x00\x00\x00\x00'
+tRp3088
+(lp3089
+g439
+aVnoodle shop
+p3090
+aVlion
+p3091
+ag113
+aVsemester
+p3092
+aVinternship
+p3093
+ag444
+aVnew kid
+p3094
+aVpiano book
+p3095
+asg2
+(g4
+S'o\x01\x00\x00\x00\x00\x00\x00'
+tRp3096
+(lp3097
+g302
+ag300
+aVprime
+p3098
+ag1002
+ag1688
+ag304
+ag470
+ag63
+aVrebel
+p3099
+asg2
+(g4
+S'p\x01\x00\x00\x00\x00\x00\x00'
+tRp3100
+(lp3101
+g19
+ag115
+aVbody armor
+p3102
+aVadvisory committee
+p3103
+ag1725
+aVruling
+p3104
+aVslush fund
+p3105
+asg2
+(g4
+S'q\x01\x00\x00\x00\x00\x00\x00'
+tRp3106
+(lp3107
+Vdepartment head
+p3108
+aVwood carving
+p3109
+aVthird wood
+p3110
+ag1241
+aVwood carve
+p3111
+ag502
+ag89
+asg2
+(g4
+S'r\x01\x00\x00\x00\x00\x00\x00'
+tRp3112
+(lp3113
+Vdocu
+p3114
+ag372
+aVpreview
+p3115
+aVbratty writer
+p3116
+aVepisode understanding
+p3117
+aVstandard commission
+p3118
+ag1859
+ag559
+asg2
+(g4
+S's\x01\x00\x00\x00\x00\x00\x00'
+tRp3119
+(lp3120
+g39
+ag3105
+aVfund ledger
+p3121
+ag1725
+aVcaffeine
+p3122
+ag392
+ag1911
+aVchild abuse
+p3123
+asg2
+(g4
+S't\x01\x00\x00\x00\x00\x00\x00'
+tRp3124
+(lp3125
+g2077
+aVceo surgery
+p3126
+ag1457
+aVmers
+p3127
+ag1454
+aVartificial heart
+p3128
+aVprocedure
+p3129
+aVmanhwa artist
+p3130
+asg2
+(g4
+S'u\x01\x00\x00\x00\x00\x00\x00'
+tRp3131
+(lp3132
+g459
+ag692
+ag573
+aVlistener
+p3133
+ag52
+aVdentist
+p3134
+ag43
+ag262
+ag731
+asg2
+(g4
+S'v\x01\x00\x00\x00\x00\x00\x00'
+tRp3135
+(lp3136
+g502
+aVparalegal
+p3137
+ag394
+aVhomeless girl
+p3138
+ag396
+aVcable tie
+p3139
+aVperforation
+p3140
+ag1279
+aVstewardess
+p3141
+asg2
+(g4
+S'w\x01\x00\x00\x00\x00\x00\x00'
+tRp3142
+(lp3143
+Vgo strike
+p3144
+aVhotel guest
+p3145
+ag2978
+ag241
+aVweve get
+p3146
+aVwell treat
+p3147
+aVtime soon
+p3148
+aVabsurdity married
+p3149
+aVabsurdity stare
+p3150
+aVact affront
+p3151
+asg2
+(g4
+S'x\x01\x00\x00\x00\x00\x00\x00'
+tRp3152
+(lp3153
+g19
+aVemergency shelter
+p3154
+ag2064
+aVdoll
+p3155
+aVradar
+p3156
+aVgoat
+p3157
+ag57
+ag1759
+asg2
+(g4
+S'y\x01\x00\x00\x00\x00\x00\x00'
+tRp3158
+(lp3159
+g69
+aVcouncil five
+p3160
+aVsenator
+p3161
+aVbullet necklace
+p3162
+ag417
+ag2457
+ag591
+aVhome shopping
+p3163
+asg2
+(g4
+S'z\x01\x00\x00\x00\x00\x00\x00'
+tRp3164
+(lp3165
+Varcher father
+p3166
+ag750
+ag436
+ag315
+aVteaching assistant
+p3167
+aVautopsy
+p3168
+asg2
+(g4
+S'{\x01\x00\x00\x00\x00\x00\x00'
+tRp3169
+(lp3170
+Vvaccine program
+p3171
+aVcomputer
+p3172
+ag1323
+ag115
+aVserver
+p3173
+ag2489
+aVback bureau
+p3174
+ag251
+asg2
+(g4
+S'|\x01\x00\x00\x00\x00\x00\x00'
+tRp3175
+(lp3176
+Vgrandmother
+p3177
+aVnaked woman
+p3178
+ag2602
+aVwithout helmet
+p3179
+ag1760
+ag2600
+ag417
+aVlighter
+p3180
+ag126
+asg2
+(g4
+S'}\x01\x00\x00\x00\x00\x00\x00'
+tRp3181
+(lp3182
+Vfamilys debt
+p3183
+ag1344
+ag350
+ag108
+aVdoppelganger
+p3184
+aVfell pool
+p3185
+ag873
+aVprompter
+p3186
+ag1227
+asg2
+(g4
+S'~\x01\x00\x00\x00\x00\x00\x00'
+tRp3187
+(lp3188
+Vsocial worker
+p3189
+ag1478
+ag1653
+ag181
+ag116
+ag113
+aVdonate part
+p3190
+aVsoon
+p3191
+aVget divorce
+p3192
+asg2
+(g4
+S'\x7f\x01\x00\x00\x00\x00\x00\x00'
+tRp3193
+(lp3194
+Vnew zealand
+p3195
+aVflight attendant
+p3196
+aVornament
+p3197
+aVhomestay
+p3198
+aVbusiness friend
+p3199
+ag34
+ag107
+asg2
+(g4
+S'\x80\x01\x00\x00\x00\x00\x00\x00'
+tRp3200
+(lp3201
+Vcouple manager
+p3202
+aVmembership
+p3203
+aVdivorcee client
+p3204
+aVjunior attorney
+p3205
+aVevil lawyer
+p3206
+aVforecast
+p3207
+asg2
+(g4
+S'\x81\x01\x00\x00\x00\x00\x00\x00'
+tRp3208
+(lp3209
+Vbaseball player
+p3210
+aVsecond button
+p3211
+ag260
+aVbaseball team
+p3212
+aVfirst string
+p3213
+ag1973
+ag2010
+aVpractice pitch
+p3214
+as.

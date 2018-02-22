@@ -1,0 +1,7 @@
+Flask==0.12.2
+Flask-Cors==3.0.3
+Jinja2==2.9.6
+pickleshare==0.7.4
+pandas==0.20.3
+numpy==1.13.3
+gunicorn==19.7.1

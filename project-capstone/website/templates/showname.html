@@ -1,0 +1,148 @@
+<!DOCTYPE HTML>
+<!--
+	Spectral by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>K-Drama Finder: {{ dl_info.showname[show_id] }}</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="/static/assets/css/main.css" />
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+	</head>
+	<body>
+
+		<!-- Page Wrapper -->
+			<div id="page-wrapper" >
+
+				<!-- Header -->
+					<header id="header">
+						<h1><a href="{{url_for('index')}}">K-Drama Finder</a></h1>
+					</header>
+
+				<!-- Main -->
+					<article id="main">
+
+						<section class="wrapper style5">
+							<div class="inner">
+								<div class="row">
+									<div class="5u 12u$(medium)">
+										<!--<div class="box alt">
+											<div class="row uniform 50%">
+												<div class="12u">--><span class="image fit"><img src="/static/images/posters/img_{{dl_info.image_index[show_id]}}.jpg" alt="" /></span> <!--</div>
+											</div> -->
+											<ul class="actions vertical">
+												<li><a href="https://mydramalist.com/search?q={{dl_info.showname[show_id].replace("\u2019", '%27').replace(' ', '+')}}" target="_blank" class="button fit">Find on MyDramaList</a></li>
+												<li><a href="http://www.dramabeans.com/?s={{dl_info.showname[show_id].replace("\u2019", '%27').replace(' ', '+')}}" target="_blank" class="button fit">Find on Dramabeans</a></li>
+											</ul>
+										</div>
+									<div class="7u 12u$(medium)">
+										<h3><br>Drama: {{ dl_info.showname[show_id] }}</h3>
+										<p><b>Average User Rating: {{dl_info.score[show_id]}}</b> / 10.0</p>
+										<b>Genres: </b>{{ ', '.join(dl_info.genres[show_id]) }}<br>
+										{% if dl_info.tags[show_id] %}
+											<b>Tags: </b>{{ ', '.join(dl_info.tags[show_id]) }}<br>
+										{% endif %}
+										<b>Thematic Elements: </b>{{', '.join(themes[show_id]).title() }}<br>
+										<b>Actors: </b>{{ ', '.join(dl_info.actors[show_id]) }}<br>
+										<b>No. of Episodes: </b>{{ dl_info.ep_no[show_id] }}<br>
+										<b>Episode Length: </b>{{ dl_info.ep_dur[show_id] }} mins<br>
+										<b>Aired Date: </b>{{ dl_info.aired_date[show_id] }}</p>
+										<p><b>Synopsis: </b> <i>{{ dl_info.synopsis[show_id] }} </i></p>
+									</div>
+								</div>
+
+							</div>
+
+							<div class="inner">
+
+								<ul class="actions vertical">
+									<li><a href="/reccs/{{show_id}}" class="button fit special">Find other similar shows</a></li>
+								</ul>
+
+							</div>
+
+							<div class="inner" >
+
+								<hr />
+								<header>
+									<h3>What others feel about: {{ dl_info.showname[show_id].title() }}</h3>
+									<p>Maximum score of 5 stars</p>
+								</header>
+
+								{% for k, v in scores.items() %}
+								{% if v != 0 %}
+								<div class="row">
+									<div class="4u 12u$(medium)">
+										<h5>{{k}}:</h5>
+									</div>
+
+									<div class="4u 12u$(medium)">
+										<ul class="icons">
+											{% for t in range( ((v-(v%2))/2)|int ) %}
+											<li class="icon fas fa-star"></li>
+											{% endfor %}
+											{% if v%2==1 %}
+											<li class="icon fa-star-half"></li>
+											{% endif %}
+										</ul>
+									</div>
+								</div>
+								{% endif %}
+								{% endfor %}
+
+								<hr id='comments' />
+
+								<h3 >What others say about: {{ dl_info.showname[show_id].title() }}</h3>
+
+								<ul class="features">
+									{% for i in shortlist.index %}
+										{% if shortlist.sent_scores[i] > 0 %}
+											<li class="icon far fa-heart">
+										{% else %}
+											<li class="icon fas fa-ban">
+										{% endif %}
+												<h5>{{shortlist.category[i]}}</h5>
+												<em><p>{{shortlist.comments[i]}}</p></em>
+											</li>
+									{% endfor %}
+								</ul>
+
+							</div>
+							<div class="inner">
+								<ul class="actions vertical">
+									<li><a href="#comments" onclick="location.reload()" class="button fit">Load more comments</a></li>
+								</ul>
+							</div>
+						</section>
+					</article>
+
+
+				<!-- Footer -->
+					<footer id="footer">
+						<div class="inner">
+							<h5><b>A General Assembly Data Science Immersive Capstone Project 2018</b></h5>
+						</div>
+						<ul class="copyright">
+							<li>&copy; Heidi C - GA DSI-2</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+							<li>Thanks to: <a href="http://www.dramabeans.com/">Dramabeans</a> & <a href="https://mydramalist.com/">MyDramaList</a></li>
+						</ul>
+					</footer>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>

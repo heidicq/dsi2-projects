@@ -1,0 +1,116 @@
+<!DOCTYPE HTML>
+<!--
+	Spectral by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>K-Drama Finder: Recommendations</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="../static/assets/css/main.css" />
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+	</head>
+	<body class="landing">
+
+		<!-- Page Wrapper -->
+			<div id="page-wrapper" >
+
+				<!-- Header -->
+					<header id="header">
+						<h1><a href="{{url_for('index')}}">K-Drama Finder</a></h1>
+						<!--<nav id="nav">
+							<ul>
+								<li class="special">
+									<a href="#menu" class="menuToggle"><span>Menu</span></a>
+									<div id="menu">
+										<ul>
+											<li><a href="index.html">Home</a></li>
+											<li><a href="generic.html">Generic</a></li>
+											<li><a href="elements.html">Elements</a></li>
+											<li><a href="#">Sign Up</a></li>
+											<li><a href="#">Log In</a></li>
+										</ul>
+									</div>
+								</li>
+							</ul>
+						</nav> -->
+					</header>
+
+				<!-- Recommendation header -->
+					<section id="one" class="wrapper style4 special" style="background-image: url('../static/images/posters/img_{{dl_info.image_index[show_id]}}.jpg'); opacity:0.7">
+						<div class="inner" style='background-color: rgba(0, 0, 0, 0.8)'>
+							<!--<div class="image"><img src="../static/images/posters/img_{{dl_info.image_index[show_id]}}.jpg" alt="" /></div> -->
+							<header class="major" style="padding:2em; margin:1em">
+								<h2>K-Drama Finder</h2>
+								<p>Finding shows similar to: <br><b><a href="../show/{{show_id}}">{{ dl_info.showname[show_id].lower().title() }}</a></b> </p>
+							</header>
+						</div>
+					</section>
+				<!-- Two -->
+					<section id="two" class="wrapper alt style2">
+						{% for i in reccs[show_id].index %}
+						<section class="spotlight">
+							<div class="image"><a href='{{url_for('disp_show', show_id=i)}}'><img src="../static/images/posters/img_{{dl_info.image_index[i]}}.jpg" alt="" /></a></div>
+							<div class="content">
+								<h2><a href='{{url_for('disp_show', show_id=i)}}'>{{ reccs[show_id].loc[i, 'showname'] }}</a></h2>
+								<p><strong>Why recommended?</strong> <em>{{ reccs[show_id].loc[i, 'reason']}}</em><br>
+								{% for detail in reccs[show_id].loc[i, 'details'] %}
+									<em>{{ detail }} </em> <br>
+								{% endfor %}
+								</p>
+								<p><strong>Average User Rating:</strong> {{dl_info.score[i]}} / 10.0 </p>
+								<p> <strong>What others say:</strong>
+								{% for comment in reccs[show_id].loc[i, 'comments'] %}
+									<em>"{{ comment.capitalize() }}", </em>
+								{% endfor %}
+								</p>
+								<div class="4u">
+									<ul class="actions vertical">
+										<li><a href="{{url_for('disp_show', show_id=i)}}" class="button fit">Tell me more</a></li>
+									</ul>
+								</div>
+							</div>
+						</section>
+						{% endfor %}
+					</section>
+
+					<!-- CTA -->
+						<section id="cta" class="wrapper style4">
+							<div class="inner">
+								<header>
+									<h3>Find other shows... </h3>
+								</header>
+								<ul class="actions vertical">
+									<li><a href="/index/" class="button fit special">back</a></li>
+								</ul>
+							</div>
+						</section>
+
+				<!-- Footer -->
+					<footer id="footer">
+						<div class="inner">
+							<h5><b>A General Assembly Data Science Immersive Capstone Project 2018</b></h5>
+						</div>
+						<ul class="copyright">
+							<li>&copy; Heidi C - GA DSI-2</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+							<li>Thanks to: <a href="http://www.dramabeans.com/">Dramabeans</a> & <a href="https://mydramalist.com/">MyDramaList</a></li>
+						</ul>
+					</footer>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
